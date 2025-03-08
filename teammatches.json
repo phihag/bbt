@@ -134,7 +134,7 @@
     {
         "type": "auto",
         "team_names": [
-            "Spvgg.Sterkrade-N.",
+            "SpVgg Sterkrade-Nord",
             "1.BC Wipperfeld 2"
         ],
         "league_key": "2BLN-2020",
@@ -458,7 +458,7 @@
     {
         "type": "auto",
         "team_names": [
-            "Spvgg.Sterkrade-N.",
+            "SpVgg Sterkrade-Nord",
             "1.CfB Köln"
         ],
         "league_key": "2BLN-2020",
@@ -759,7 +759,7 @@
         "type": "auto",
         "team_names": [
             "SC Union 08 Lüdinghausen 2",
-            "Spvgg.Sterkrade-N."
+            "SpVgg Sterkrade-Nord"
         ],
         "league_key": "2BLN-2020",
         "starttime": "13:00",
@@ -1311,7 +1311,7 @@
         "type": "auto",
         "team_names": [
             "1.BV Mülheim 2",
-            "Spvgg.Sterkrade-N."
+            "SpVgg Sterkrade-Nord"
         ],
         "league_key": "2BLN-2020",
         "starttime": "15:00",
@@ -1442,7 +1442,7 @@
     {
         "type": "auto",
         "team_names": [
-            "Spvgg.Sterkrade-N.",
+            "SpVgg Sterkrade-Nord",
             "VfB GW Mülheim"
         ],
         "league_key": "2BLN-2020",
@@ -1682,7 +1682,7 @@
     {
         "type": "auto",
         "team_names": [
-            "Spvgg.Sterkrade-N.",
+            "SpVgg Sterkrade-Nord",
             "Gladbecker FC"
         ],
         "league_key": "2BLN-2020",
@@ -1826,18 +1826,6 @@
     {
         "type": "auto",
         "team_names": [
-            "SG Gifhorn\/Nienburg",
-            "SG VfB\/SC Peine"
-        ],
-        "league_key": "RLN-2016",
-        "starttime": "16:00",
-        "date": "2024-10-26",
-        "date_de": "26.10.2024",
-        "ts": 1729951200
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "SG Hammer\/Altenholz\/Molfsee",
             "Blau-Weiss Wittorf-NMS 2"
         ],
@@ -1876,18 +1864,6 @@
         "team_names": [
             "Horner TV",
             "SG VfB\/SC Peine"
-        ],
-        "league_key": "RLN-2016",
-        "starttime": "10:00",
-        "date": "2024-10-27",
-        "date_de": "27.10.2024",
-        "ts": 1730019600
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "SG Gifhorn\/Nienburg",
-            "SG Lengede\/Vechelde"
         ],
         "league_key": "RLN-2016",
         "starttime": "10:00",
@@ -2019,7 +1995,7 @@
         "type": "auto",
         "team_names": [
             "TV Refrath 2",
-            "Spvgg.Sterkrade-N."
+            "SpVgg Sterkrade-Nord"
         ],
         "league_key": "2BLN-2020",
         "starttime": "13:00",
@@ -2198,18 +2174,6 @@
     {
         "type": "auto",
         "team_names": [
-            "SG Gifhorn\/Nienburg",
-            "TSV Tempelhof-Mariendorf"
-        ],
-        "league_key": "RLN-2016",
-        "starttime": "16:00",
-        "date": "2024-11-09",
-        "date_de": "09.11.2024",
-        "ts": 1731164400
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "SG Lengede\/Vechelde",
             "Blau-Weiss Wittorf-NMS 2"
         ],
@@ -2286,6 +2250,18 @@
             "SG Schorndorf"
         ],
         "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2024-11-09",
+        "date_de": "09.11.2024",
+        "ts": 1731168000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Gifhorn\/Nienburg",
+            "TSV Tempelhof-Mariendorf"
+        ],
+        "league_key": "RLN-2016",
         "starttime": "17:00",
         "date": "2024-11-09",
         "date_de": "09.11.2024",
@@ -2386,18 +2362,6 @@
         "date": "2024-11-09",
         "date_de": "09.11.2024",
         "ts": 1731173400
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "Horner TV",
-            "TSV Tempelhof-Mariendorf"
-        ],
-        "league_key": "RLN-2016",
-        "starttime": "10:00",
-        "date": "2024-11-10",
-        "date_de": "10.11.2024",
-        "ts": 1731229200
     },
     {
         "type": "auto",
@@ -2534,6 +2498,18 @@
     {
         "type": "auto",
         "team_names": [
+            "Horner TV",
+            "TSV Tempelhof-Mariendorf"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "11:00",
+        "date": "2024-11-10",
+        "date_de": "10.11.2024",
+        "ts": 1731232800
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "Post SV Ludwigshafen",
             "TV Mainz-Zahlbach 1862"
         ],
@@ -2618,6 +2594,18 @@
     {
         "type": "auto",
         "team_names": [
+            "1.CfB Köln",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "2BLN-2020",
+        "starttime": "12:00",
+        "date": "2024-11-10",
+        "date_de": "10.11.2024",
+        "ts": 1731236400
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "Gladbecker FC",
             "SC Union 08 Lüdinghausen 2"
         ],
@@ -2655,7 +2643,7 @@
         "type": "auto",
         "team_names": [
             "1.BC Beuel 2",
-            "Spvgg.Sterkrade-N."
+            "SpVgg Sterkrade-Nord"
         ],
         "league_key": "2BLN-2020",
         "starttime": "14:00",
@@ -2666,10 +2654,10 @@
     {
         "type": "auto",
         "team_names": [
-            "1.CfB Köln",
-            "SV Berliner Brauereien"
+            "SC Union 08 Lüdinghausen",
+            "SV Fun-Ball Dortelweil"
         ],
-        "league_key": "2BLN-2020",
+        "league_key": "1BL-2020",
         "starttime": "14:00",
         "date": "2024-11-10",
         "date_de": "10.11.2024",
@@ -2710,18 +2698,6 @@
         "date": "2024-11-10",
         "date_de": "10.11.2024",
         "ts": 1731245400
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "SC Union 08 Lüdinghausen",
-            "SV Fun-Ball Dortelweil"
-        ],
-        "league_key": "1BL-2020",
-        "starttime": "15:00",
-        "date": "2024-11-10",
-        "date_de": "10.11.2024",
-        "ts": 1731247200
     },
     {
         "type": "auto",
@@ -2882,7 +2858,7 @@
     {
         "type": "auto",
         "team_names": [
-            "Spvgg.Sterkrade-N.",
+            "SpVgg Sterkrade-Nord",
             "STC Blau-Weiss Solingen"
         ],
         "league_key": "2BLN-2020",
@@ -3027,7 +3003,7 @@
         "type": "auto",
         "team_names": [
             "SV Berliner Brauereien",
-            "Spvgg.Sterkrade-N."
+            "SpVgg Sterkrade-Nord"
         ],
         "league_key": "2BLN-2020",
         "starttime": "13:00",
@@ -3338,18 +3314,6 @@
     {
         "type": "auto",
         "team_names": [
-            "BC Hohenlimburg",
-            "1.CfB Köln 2"
-        ],
-        "league_key": "RLW-2016",
-        "starttime": "18:00",
-        "date": "2024-12-14",
-        "date_de": "14.12.2024",
-        "ts": 1734195600
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "Blau-Weiss Wittorf-NMS 2",
             "TSV Tempelhof-Mariendorf"
         ],
@@ -3567,7 +3531,7 @@
         "type": "auto",
         "team_names": [
             "TSV Trittau",
-            "Spvgg.Sterkrade-N."
+            "SpVgg Sterkrade-Nord"
         ],
         "league_key": "2BLN-2020",
         "starttime": "13:00",
@@ -3626,6 +3590,18 @@
     {
         "type": "auto",
         "team_names": [
+            "BC Hohenlimburg",
+            "1.CfB Köln 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "10:30",
+        "date": "2024-12-22",
+        "date_de": "22.12.2024",
+        "ts": 1734859800
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "1.BC Wipperfeld 2",
             "VfB GW Mülheim"
         ],
@@ -3674,18 +3650,6 @@
     {
         "type": "auto",
         "team_names": [
-            "STC Blau-Weiss Solingen",
-            "SV Berliner Brauereien"
-        ],
-        "league_key": "2BLN-2020",
-        "starttime": "13:00",
-        "date": "2025-01-11",
-        "date_de": "11.01.2025",
-        "ts": 1736596800
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "Blau-Weiss Wittorf-NMS",
             "SG Schorndorf"
         ],
@@ -3698,7 +3662,19 @@
     {
         "type": "auto",
         "team_names": [
-            "Spvgg.Sterkrade-N.",
+            "STC Blau-Weiss Solingen",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "2BLN-2020",
+        "starttime": "14:00",
+        "date": "2025-01-11",
+        "date_de": "11.01.2025",
+        "ts": 1736600400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SpVgg Sterkrade-Nord",
             "TSV Trittau"
         ],
         "league_key": "2BLN-2020",
@@ -3926,7 +3902,7 @@
     {
         "type": "auto",
         "team_names": [
-            "Spvgg.Sterkrade-N.",
+            "SpVgg Sterkrade-Nord",
             "SV Berliner Brauereien"
         ],
         "league_key": "2BLN-2020",
@@ -4190,6 +4166,18 @@
     {
         "type": "auto",
         "team_names": [
+            "TSV Niederwürschnitz",
+            "TV 1862 Dillingen"
+        ],
+        "league_key": "RLSO-2019",
+        "starttime": "15:00",
+        "date": "2025-01-25",
+        "date_de": "25.01.2025",
+        "ts": 1737813600
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "ESV Flügelrad Nürnberg",
             "SG TSV Diedorf \/ TSV Haunstetten"
         ],
@@ -4216,18 +4204,6 @@
         "team_names": [
             "TSV Neubiberg\/Ottobrunn 1920",
             "TSV Neuhausen-Nymphenb. München 2"
-        ],
-        "league_key": "RLSO-2019",
-        "starttime": "16:00",
-        "date": "2025-01-25",
-        "date_de": "25.01.2025",
-        "ts": 1737817200
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "TSV Niederwürschnitz",
-            "TV 1862 Dillingen"
         ],
         "league_key": "RLSO-2019",
         "starttime": "16:00",
@@ -4406,18 +4382,6 @@
     {
         "type": "auto",
         "team_names": [
-            "SV Berliner Brauereien",
-            "TSV Trittau"
-        ],
-        "league_key": "2BLN-2020",
-        "starttime": "11:00",
-        "date": "2025-01-26",
-        "date_de": "26.01.2025",
-        "ts": 1737885600
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "TSV Neubiberg\/Ottobrunn 1920",
             "SV Lohhof"
         ],
@@ -4442,18 +4406,6 @@
     {
         "type": "auto",
         "team_names": [
-            "TuS Geretsried",
-            "TSV Neuhausen-Nymphenb. München"
-        ],
-        "league_key": "2BLS-2020",
-        "starttime": "11:00",
-        "date": "2025-01-26",
-        "date_de": "26.01.2025",
-        "ts": 1737885600
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "SV Fun-Ball Dortelweil",
             "SG Schorndorf"
         ],
@@ -4467,9 +4419,33 @@
         "type": "auto",
         "team_names": [
             "STC Blau-Weiss Solingen",
-            "Spvgg.Sterkrade-N."
+            "SpVgg Sterkrade-Nord"
         ],
         "league_key": "2BLN-2020",
+        "starttime": "12:00",
+        "date": "2025-01-26",
+        "date_de": "26.01.2025",
+        "ts": 1737889200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Berliner Brauereien",
+            "TSV Trittau"
+        ],
+        "league_key": "2BLN-2020",
+        "starttime": "12:00",
+        "date": "2025-01-26",
+        "date_de": "26.01.2025",
+        "ts": 1737889200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Geretsried",
+            "TSV Neuhausen-Nymphenb. München"
+        ],
+        "league_key": "2BLS-2020",
         "starttime": "12:00",
         "date": "2025-01-26",
         "date_de": "26.01.2025",
@@ -4610,7 +4586,7 @@
     {
         "type": "auto",
         "team_names": [
-            "Spvgg.Sterkrade-N.",
+            "SpVgg Sterkrade-Nord",
             "1.BC Beuel 2"
         ],
         "league_key": "2BLN-2020",
@@ -4682,6 +4658,18 @@
     {
         "type": "auto",
         "team_names": [
+            "PSV Saar",
+            "SV GutsMuths Jena 2"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "16:00",
+        "date": "2025-02-08",
+        "date_de": "08.02.2025",
+        "ts": 1739026800
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "SG Lengede\/Vechelde",
             "Horner TV"
         ],
@@ -4744,18 +4732,6 @@
         "team_names": [
             "1. BC Sbr.-Bischmisheim 3",
             "TuS 1872 Schwanheim"
-        ],
-        "league_key": "RLM-2016",
-        "starttime": "17:00",
-        "date": "2025-02-08",
-        "date_de": "08.02.2025",
-        "ts": 1739030400
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "PSV Saar",
-            "SV GutsMuths Jena 2"
         ],
         "league_key": "RLM-2016",
         "starttime": "17:00",
@@ -4886,7 +4862,7 @@
     {
         "type": "auto",
         "team_names": [
-            "Spvgg.Sterkrade-N.",
+            "SpVgg Sterkrade-Nord",
             "TV Refrath 2"
         ],
         "league_key": "2BLN-2020",
@@ -4918,6 +4894,18 @@
         "date": "2025-02-09",
         "date_de": "09.02.2025",
         "ts": 1739095200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 3",
+            "SV GutsMuths Jena 2"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "12:00",
+        "date": "2025-02-09",
+        "date_de": "09.02.2025",
+        "ts": 1739098800
     },
     {
         "type": "auto",
@@ -4954,18 +4942,6 @@
         "date": "2025-02-09",
         "date_de": "09.02.2025",
         "ts": 1739104200
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "1. BC Sbr.-Bischmisheim 3",
-            "SV GutsMuths Jena 2"
-        ],
-        "league_key": "RLM-2016",
-        "starttime": "14:00",
-        "date": "2025-02-09",
-        "date_de": "09.02.2025",
-        "ts": 1739106000
     },
     {
         "type": "auto",
@@ -5198,6 +5174,18 @@
     {
         "type": "auto",
         "team_names": [
+            "Gladbecker FC",
+            "SpVgg Sterkrade-Nord"
+        ],
+        "league_key": "2BLN-2020",
+        "starttime": "13:00",
+        "date": "2025-02-22",
+        "date_de": "22.02.2025",
+        "ts": 1740225600
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "SV Fun-Ball Dortelweil 2",
             "TV 1884 Marktheidenfeld"
         ],
@@ -5270,30 +5258,6 @@
     {
         "type": "auto",
         "team_names": [
-            "TV Refrath 2",
-            "TSV Trittau"
-        ],
-        "league_key": "2BLN-2020",
-        "starttime": "15:00",
-        "date": "2025-02-22",
-        "date_de": "22.02.2025",
-        "ts": 1740232800
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "TuS Geretsried",
-            "TV 1860 Hofheim"
-        ],
-        "league_key": "2BLS-2020",
-        "starttime": "15:00",
-        "date": "2025-02-22",
-        "date_de": "22.02.2025",
-        "ts": 1740232800
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "HSG DHfK Leipzig",
             "BC Offenburg"
         ],
@@ -5354,10 +5318,34 @@
     {
         "type": "auto",
         "team_names": [
+            "TuS Geretsried",
+            "TV 1860 Hofheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "16:30",
+        "date": "2025-02-22",
+        "date_de": "22.02.2025",
+        "ts": 1740238200
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "SV GutsMuths Jena",
             "1. BV Maintal 1978"
         ],
         "league_key": "2BLS-2020",
+        "starttime": "17:00",
+        "date": "2025-02-22",
+        "date_de": "22.02.2025",
+        "ts": 1740240000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 2",
+            "TSV Trittau"
+        ],
+        "league_key": "2BLN-2020",
         "starttime": "17:00",
         "date": "2025-02-22",
         "date_de": "22.02.2025",
@@ -5426,18 +5414,6 @@
     {
         "type": "auto",
         "team_names": [
-            "Gladbecker FC",
-            "Spvgg.Sterkrade-N."
-        ],
-        "league_key": "2BLN-2020",
-        "starttime": "18:00",
-        "date": "2025-02-22",
-        "date_de": "22.02.2025",
-        "ts": 1740243600
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "TV Refrath 3",
             "BV RW Wesel"
         ],
@@ -5462,18 +5438,6 @@
     {
         "type": "auto",
         "team_names": [
-            "Blau-Weiss Wittorf-NMS 2",
-            "SG VfB\/SC Peine"
-        ],
-        "league_key": "RLN-2016",
-        "starttime": "10:00",
-        "date": "2025-02-23",
-        "date_de": "23.02.2025",
-        "ts": 1740301200
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "SC Brandenburg",
             "SG Gifhorn\/Nienburg"
         ],
@@ -5488,18 +5452,6 @@
         "team_names": [
             "SG Hammer\/Altenholz\/Molfsee",
             "SG Lengede\/Vechelde"
-        ],
-        "league_key": "RLN-2016",
-        "starttime": "10:00",
-        "date": "2025-02-23",
-        "date_de": "23.02.2025",
-        "ts": 1740301200
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "TSV Tempelhof-Mariendorf",
-            "Horner TV"
         ],
         "league_key": "RLN-2016",
         "starttime": "10:00",
@@ -5582,6 +5534,18 @@
     {
         "type": "auto",
         "team_names": [
+            "TSV Tempelhof-Mariendorf",
+            "Horner TV"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "11:30",
+        "date": "2025-02-23",
+        "date_de": "23.02.2025",
+        "ts": 1740306600
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "Gladbecker FC",
             "STC Blau-Weiss Solingen"
         ],
@@ -5631,7 +5595,7 @@
         "type": "auto",
         "team_names": [
             "VfB GW Mülheim",
-            "Spvgg.Sterkrade-N."
+            "SpVgg Sterkrade-Nord"
         ],
         "league_key": "2BLN-2020",
         "starttime": "13:00",
@@ -5702,18 +5666,6 @@
     {
         "type": "auto",
         "team_names": [
-            "SV Lohhof",
-            "TSV Niederwürschnitz"
-        ],
-        "league_key": "RLSO-2019",
-        "starttime": "15:00",
-        "date": "2025-03-01",
-        "date_de": "01.03.2025",
-        "ts": 1740837600
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "TV 1862 Dillingen",
             "BSV Eggenstein-Leopoldshafen"
         ],
@@ -5728,6 +5680,18 @@
         "team_names": [
             "SG TSV Diedorf \/ TSV Haunstetten",
             "SG Schorndorf 2"
+        ],
+        "league_key": "RLSO-2019",
+        "starttime": "16:00",
+        "date": "2025-03-01",
+        "date_de": "01.03.2025",
+        "ts": 1740841200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Lohhof",
+            "TSV Niederwürschnitz"
         ],
         "league_key": "RLSO-2019",
         "starttime": "16:00",
@@ -5774,6 +5738,18 @@
     {
         "type": "auto",
         "team_names": [
+            "SV Lohhof",
+            "ESV Flügelrad Nürnberg"
+        ],
+        "league_key": "RLSO-2019",
+        "starttime": "10:00",
+        "date": "2025-03-02",
+        "date_de": "02.03.2025",
+        "ts": 1740906000
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "TSV Neuhausen-Nymphenb. München 2",
             "TSV Niederwürschnitz"
         ],
@@ -5794,18 +5770,6 @@
         "date": "2025-03-02",
         "date_de": "02.03.2025",
         "ts": 1740906000
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "SV Lohhof",
-            "ESV Flügelrad Nürnberg"
-        ],
-        "league_key": "RLSO-2019",
-        "starttime": "11:00",
-        "date": "2025-03-02",
-        "date_de": "02.03.2025",
-        "ts": 1740909600
     },
     {
         "type": "auto",
@@ -5846,6 +5810,18 @@
     {
         "type": "auto",
         "team_names": [
+            "PSV Saar",
+            "Post SV Ludwigshafen"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2025-03-08",
+        "date_de": "08.03.2025",
+        "ts": 1741438800
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "STC Blau-Weiss Solingen",
             "SC Union 08 Lüdinghausen 2"
         ],
@@ -5870,7 +5846,7 @@
     {
         "type": "auto",
         "team_names": [
-            "Spvgg.Sterkrade-N.",
+            "SpVgg Sterkrade-Nord",
             "1.BV Mülheim 2"
         ],
         "league_key": "2BLN-2020",
@@ -5922,18 +5898,6 @@
             "TV Refrath 3"
         ],
         "league_key": "RLW-2016",
-        "starttime": "15:00",
-        "date": "2025-03-08",
-        "date_de": "08.03.2025",
-        "ts": 1741442400
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "TuS Geretsried",
-            "SV GutsMuths Jena"
-        ],
-        "league_key": "2BLS-2020",
         "starttime": "15:00",
         "date": "2025-03-08",
         "date_de": "08.03.2025",
@@ -6014,6 +5978,18 @@
     {
         "type": "auto",
         "team_names": [
+            "TuS Geretsried",
+            "SV GutsMuths Jena"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "16:30",
+        "date": "2025-03-08",
+        "date_de": "08.03.2025",
+        "ts": 1741447800
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "1. BC Sbr.-Bischmisheim 3",
             "SV Fischbach"
         ],
@@ -6026,10 +6002,10 @@
     {
         "type": "auto",
         "team_names": [
-            "PSV Saar",
-            "Post SV Ludwigshafen"
+            "TV Refrath",
+            "1.BC Beuel"
         ],
-        "league_key": "RLM-2016",
+        "league_key": "1BL-2020",
         "starttime": "17:00",
         "date": "2025-03-08",
         "date_de": "08.03.2025",
@@ -6182,7 +6158,7 @@
     {
         "type": "auto",
         "team_names": [
-            "Spvgg.Sterkrade-N.",
+            "SpVgg Sterkrade-Nord",
             "SC Union 08 Lüdinghausen 2"
         ],
         "league_key": "2BLN-2020",
@@ -6342,18 +6318,6 @@
             "1.BV Mülheim 2"
         ],
         "league_key": "2BLN-2020",
-        "starttime": "14:00",
-        "date": "2025-03-09",
-        "date_de": "09.03.2025",
-        "ts": 1741525200
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "TV Refrath",
-            "1.BC Beuel"
-        ],
-        "league_key": "1BL-2020",
         "starttime": "14:00",
         "date": "2025-03-09",
         "date_de": "09.03.2025",
@@ -6663,7 +6627,7 @@
         "type": "auto",
         "team_names": [
             "1.CfB Köln",
-            "Spvgg.Sterkrade-N."
+            "SpVgg Sterkrade-Nord"
         ],
         "league_key": "2BLN-2020",
         "starttime": "18:00",
@@ -6735,7 +6699,7 @@
         "type": "auto",
         "team_names": [
             "1.BC Wipperfeld 2",
-            "Spvgg.Sterkrade-N."
+            "SpVgg Sterkrade-Nord"
         ],
         "league_key": "2BLN-2020",
         "starttime": "11:00",
@@ -7046,18 +7010,6 @@
     {
         "type": "auto",
         "team_names": [
-            "SV Lohhof",
-            "TV 1862 Dillingen"
-        ],
-        "league_key": "RLSO-2019",
-        "starttime": "16:00",
-        "date": "2025-04-12",
-        "date_de": "12.04.2025",
-        "ts": 1744466400
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "TSV Neubiberg\/Ottobrunn 1920",
             "SG Schorndorf 2"
         ],
@@ -7078,6 +7030,18 @@
         "date": "2025-04-12",
         "date_de": "12.04.2025",
         "ts": 1744466400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Lohhof",
+            "TV 1862 Dillingen"
+        ],
+        "league_key": "RLSO-2019",
+        "starttime": "18:00",
+        "date": "2025-04-12",
+        "date_de": "12.04.2025",
+        "ts": 1744473600
     },
     {
         "type": "auto",
