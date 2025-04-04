@@ -6938,6 +6938,18 @@
     {
         "type": "auto",
         "team_names": [
+            "1. BC Sbr.-Bischmisheim",
+            "SC Union 08 Lüdinghausen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2025-04-05",
+        "date_de": "05.04.2025",
+        "ts": 1743850800
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "1.CfB Köln 2",
             "TV Refrath 3"
         ],
@@ -6982,6 +6994,18 @@
         "date": "2025-04-06",
         "date_de": "06.04.2025",
         "ts": 1743930000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf-NMS",
+            "TV Refrath"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2025-04-06",
+        "date_de": "06.04.2025",
+        "ts": 1743933600
     },
     {
         "type": "auto",
