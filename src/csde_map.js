@@ -1,10 +1,10 @@
 'use strict';
 
 const TEAM_NAMES = {
-    '11-6': 'Blau-Weiss Wittorf',
-    '11-5': 'TV Refrath',
-    '12-3': '1. BC Sbr.-Bischmisheim',
-    '12-4': 'SC Union 08 Lüdinghausen',
+    '14-3': '1. BC Sbr.-Bischmisheim',
+    '14-2': '1.BC Wipperfeld',
+    '14-6': 'Blau-Weiss Wittorf',
+    '14-1': 'SV Fun-Ball Dortelweil',
 };
 
 module.exports = {

@@ -13,5 +13,5 @@
 		"user": "admin",
 		"password_hash": "<enter hash created by ./makepassword.js here in localconfig.json>"
 	}],
-	"note_html": "<div style=\"text-align:center\">Viertelfinale!</div>"
+	"note_html": "<div style=\"text-align:center\">Halbfinale</div>"
 }
