@@ -90,7 +90,7 @@ function parse(src, data) {
 		}
 
 		// Players
-		let players = btde_match.players.map(_parse_players);
+		let players = (btde_match.players || []).map(_parse_players);
 		if (players.length !== 2) {
 			players = [[], []];
 		}
