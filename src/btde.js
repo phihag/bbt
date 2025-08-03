@@ -94,6 +94,9 @@ function parse(src, data) {
 		if (players.length !== 2) {
 			players = [[], []];
 		}
+		if (players[0].length !== players[1].length) {
+			players = [[], []];
+		}
 		// Swap mixed (wrong order in btde)
 		if (res.name === 'GD') {
 			for (const team_players of players) {
