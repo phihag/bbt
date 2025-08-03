@@ -166,7 +166,9 @@ function run_once(cfg, src, sh, cb) {
 }
 
 function setup_tm(tm, home_team) {
-	tm.btde_account = home_team.btde_account;
+	if (!tm.btde_account) {
+		tm.btde_account = home_team.btde_account;
+	}
 }
 
 module.exports = {

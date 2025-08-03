@@ -9,7 +9,9 @@
         "starttime": "13:00",
         "date": "2025-08-03",
         "date_de": "03.08.2025",
-        "ts": 1754218800
+        "ts": 1754218800,
+        "type": "btde",
+        "btde_account": "svfunballdortelweil"
     }
 
 ]
