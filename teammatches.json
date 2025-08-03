@@ -3,25 +3,13 @@
         "type": "auto",
         "team_names": [
             "SV Fun-Ball Dortelweil",
-            "1. BC Sbr.-Bischmisheim"
-        ],
-        "league_key": "1BL-2020",
-        "starttime": "19:00",
-        "date": "2025-04-17",
-        "date_de": "17.04.2025",
-        "ts": 1744866000
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "1.BC Wipperfeld",
             "Blau-Weiss Wittorf-NMS"
         ],
         "league_key": "1BL-2020",
-        "starttime": "19:00",
-        "date": "2025-04-17",
-        "date_de": "17.04.2025",
-        "ts": 1744866000
+        "starttime": "13:00",
+        "date": "2025-08-03",
+        "date_de": "03.08.2025",
+        "ts": 1754218800
     }
 
 ]
