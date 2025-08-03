@@ -110,7 +110,7 @@ function parse(src, data) {
 		}
 
 		// Score
-		res.score = btde_match.points;
+		res.score = btde_match.points || [];
 
 		// Server
 		if (btde_match.service && btde_match.service.length == 2) {
