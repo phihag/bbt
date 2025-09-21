@@ -20,7 +20,7 @@ async function main() {
 	const args = parser.parseArgs();
 
 	const lines = [];
-	for (const league of [/*1, 2, 3, 4, 5, 6, 7, 11, 12, */14]) {
+	for (const league of [1, 2, 3, 4, 5, 6, 7, /*11, 12, */14]) {
 		const response = await fetch(`https://courtspot.de/php__Skripte/getVereine.php?liga=${league}`);
 		assert.equal(response.status, 200);
 		const xml = await response.text();

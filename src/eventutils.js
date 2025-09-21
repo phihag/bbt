@@ -153,6 +153,9 @@ function unify_team_name(team_name) {
 	team_name = team_name.replace('<wbr>', '');
 	team_name = {
 		'STC BW Solingen': 'STC Blau-Weiss Solingen',
+		'1.BC Beuel': '1. BC Beuel',
+		'1.BC Beuel 2': '1. BC Beuel 2',
+		'1.BC Beuel 3': '1. BC Beuel 3',
 		'1.BC Sbr.-Bischmisheim': '1. BC Sbr.-Bischmisheim',
 		'1.BC Sbr.-Bischmisheim 2': '1. BC Sbr.-Bischmisheim 2',
 		'SC Union Lüdinghausen': 'SC Union 08 Lüdinghausen',

@@ -2,16 +2,6037 @@
     {
         "type": "auto",
         "team_names": [
-            "SV Fun-Ball Dortelweil",
+            "BC Hohenlimburg",
+            "1. BV Mülheim 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "10:00",
+        "date": "2025-08-24",
+        "date_de": "24.08.2025",
+        "ts": 1756022400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. CfB Köln",
+            "Gladbecker FC 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:30",
+        "date": "2025-09-06",
+        "date_de": "06.09.2025",
+        "ts": 1757176200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 3",
+            "1. BC Beuel 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "11:00",
+        "date": "2025-09-07",
+        "date_de": "07.09.2025",
+        "ts": 1757235600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 3",
+            "Gladbecker FC 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "15:00",
+        "date": "2025-09-07",
+        "date_de": "07.09.2025",
+        "ts": 1757250000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TB Andernach",
+            "BC Remagen"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "11:00",
+        "date": "2025-09-14",
+        "date_de": "14.09.2025",
+        "ts": 1757840400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 2",
+            "1. BC Recklinghausen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758362400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758369600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Witzhelden",
+            "1. BC Beuel"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758369600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC PreussenPark 09",
+            "SG Lengede\/Vechelde"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758376800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BSV Eggenstein-Leopoldshafen",
+            "SV Fun-Ball Dortelweil 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758376800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf NMS 2",
+            "TSV Trittau [N] 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758376800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Hammer\/Altenholz\/Molfsee",
+            "Horner TV"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758376800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "STC Blau-Weiss Solingen",
+            "SC Union 08 Lüdinghausen 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758376800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Neuhausen-Nymphenb. München",
+            "TV 1860 Hofheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758376800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Tempelhof-Mariendorf",
+            "SG VfB\/SC Peine"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758376800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 2",
+            "Spvgg Sterkrade-Nord"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758376800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 3",
+            "SV GutsMuths Jena 2"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "16:30",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758378600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV 1906 Freystadt",
+            "1. BV Maintal 1978"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:30",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758378600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Geretsried",
+            "SG Schorndorf"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:30",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758378600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Offenburg",
+            "TV 1884 Marktheidenfeld"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758380400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena",
+            "1. BC Sbr.-Bischmisheim 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758380400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel 2",
+            "1. CfB Köln"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758384000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim 2",
+            "BV RW Wesel"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758384000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC 2",
+            "1. BC Wipperfeld 3"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758384000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SSV WBG Bochum",
+            "VfB GW Mülheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "18:00",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758384000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Mainz-Zahlbach",
+            "TuS Schwanheim"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "18:30",
+        "date": "2025-09-20",
+        "date_de": "20.09.2025",
+        "ts": 1758385800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Tempelhof-Mariendorf",
+            "SG Lengede\/Vechelde"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "09:30",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758439800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC PreussenPark 09",
+            "SG VfB\/SC Peine"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758441600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf NMS 2",
+            "Horner TV"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758441600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Hammer\/Altenholz\/Molfsee",
+            "TSV Trittau [N] 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758441600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld",
+            "1. BC Sbr.-Bischmisheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "11:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758445200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. CfB Köln",
+            "1. BV Mülheim 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "11:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758445200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BSV Eggenstein-Leopoldshafen",
+            "TV 1884 Marktheidenfeld"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758445200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "STC Blau-Weiss Solingen",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758445200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena",
+            "1. BV Maintal 1978"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758445200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 2",
+            "1. BC Beuel"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758445200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Witzhelden",
+            "Spvgg Sterkrade-Nord"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758445200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Geretsried",
+            "TV 1860 Hofheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758445200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Offenburg",
+            "SV Fun-Ball Dortelweil 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:30",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758447000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC",
+            "SC Union 08 Lüdinghausen 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758448800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Neuhausen-Nymphenb. München",
+            "SG Schorndorf"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758448800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau",
+            "SV Fun-Ball Dortelweil"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "13:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758452400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim",
+            "SC Union 08 Lüdinghausen"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "14:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758456000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV RW Wesel",
+            "1. BC Beuel 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "14:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758456000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "PSV Saar",
+            "1. BC Sbr.-Bischmisheim 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758456000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV 1906 Freystadt",
+            "1. BC Sbr.-Bischmisheim 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758456000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 2",
+            "VfB GW Mülheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758459600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SSV WBG Bochum",
+            "1. BC Recklinghausen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758459600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath",
             "Blau-Weiss Wittorf-NMS"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2025-09-21",
+        "date_de": "21.09.2025",
+        "ts": 1758459600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV Gifhorn",
+            "TSV Tempelhof-Mariendorf"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-09-27",
+        "date_de": "27.09.2025",
+        "ts": 1758981600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Horner TV",
+            "SG VfB\/SC Peine"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-09-27",
+        "date_de": "27.09.2025",
+        "ts": 1758981600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Hammer\/Altenholz\/Molfsee",
+            "Blau-Weiss Wittorf NMS 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-09-27",
+        "date_de": "27.09.2025",
+        "ts": 1758981600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau [N] 2",
+            "SG Lengede\/Vechelde"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-09-27",
+        "date_de": "27.09.2025",
+        "ts": 1758981600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV Gifhorn",
+            "BC PreussenPark 09"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-09-28",
+        "date_de": "28.09.2025",
+        "ts": 1759046400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Horner TV",
+            "SG Lengede\/Vechelde"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-09-28",
+        "date_de": "28.09.2025",
+        "ts": 1759046400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau [N] 2",
+            "SG VfB\/SC Peine"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-09-28",
+        "date_de": "28.09.2025",
+        "ts": 1759046400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC",
+            "TV Refrath 2"
         ],
         "league_key": "1BL-2020",
         "starttime": "13:00",
-        "date": "2025-08-03",
-        "date_de": "03.08.2025",
-        "ts": 1754218800,
-        "type": "btde",
-        "btde_account": "svfunballdortelweil"
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759575600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen 2",
+            "1. BC Wipperfeld 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759575600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Berliner Brauereien",
+            "SSV WBG Bochum"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759575600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "STC Blau-Weiss Solingen",
+            "TV Witzhelden"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759579200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TB Andernach",
+            "SV GutsMuths Jena 2"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759579200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "PSV Saar",
+            "TuS Schwanheim"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:30",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759581000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Remagen",
+            "SV Fun-Ball Dortelweil 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "15:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759582800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Schorndorf",
+            "1. BV Maintal 1978"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759582800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1860 Hofheim",
+            "1. BC Sbr.-Bischmisheim 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759582800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "VfB GW Mülheim",
+            "1. BC Beuel"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759582800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 2",
+            "TSV Neuhausen-Nymphenb. München"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759586400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1884 Marktheidenfeld",
+            "TuS Geretsried"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759586400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV 1906 Freystadt",
+            "BC Offenburg"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:30",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759588200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 3",
+            "TV Mainz-Zahlbach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "17:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759590000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena",
+            "BSV Eggenstein-Leopoldshafen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759590000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Recklinghausen",
+            "Spvgg Sterkrade-Nord"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "18:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759593600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim 2",
+            "1. BC Wipperfeld 3"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759593600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Hohenlimburg",
+            "1. CfB Köln"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2025-10-04",
+        "date_de": "04.10.2025",
+        "ts": 1759593600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "PSV Saar",
+            "TV Mainz-Zahlbach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "10:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759651200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 2",
+            "TuS Geretsried"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "10:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759651200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Recklinghausen",
+            "1. BC Beuel"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759654800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen 2",
+            "SSV WBG Bochum"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759654800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Berliner Brauereien",
+            "1. BC Wipperfeld 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759654800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena",
+            "BC Offenburg"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759654800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TB Andernach",
+            "SV Fun-Ball Dortelweil 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "11:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759654800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1860 Hofheim",
+            "1. BV Maintal 1978"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759654800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1884 Marktheidenfeld",
+            "TSV Neuhausen-Nymphenb. München"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759654800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 3",
+            "TuS Schwanheim"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "12:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759658400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC",
+            "TV Witzhelden"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759658400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "VfB GW Mülheim",
+            "Spvgg Sterkrade-Nord"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759658400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Remagen",
+            "SV GutsMuths Jena 2"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "13:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759662000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Schorndorf",
+            "1. BC Sbr.-Bischmisheim 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759662000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau",
+            "TV Refrath"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "13:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759662000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim",
+            "1. BC Wipperfeld"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "14:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759665600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "STC Blau-Weiss Solingen",
+            "TV Refrath 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759665600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV 1906 Freystadt",
+            "BSV Eggenstein-Leopoldshafen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759665600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil",
+            "Blau-Weiss Wittorf-NMS"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "14:30",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759667400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen",
+            "1. BC Sbr.-Bischmisheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2025-10-05",
+        "date_de": "05.10.2025",
+        "ts": 1759669200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC PreussenPark 09",
+            "TSV Trittau [N] 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-10-11",
+        "date_de": "11.10.2025",
+        "ts": 1760191200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Hammer\/Altenholz\/Molfsee",
+            "BV Gifhorn"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-10-11",
+        "date_de": "11.10.2025",
+        "ts": 1760191200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG VfB\/SC Peine",
+            "SG Lengede\/Vechelde"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-10-11",
+        "date_de": "11.10.2025",
+        "ts": 1760191200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Tempelhof-Mariendorf",
+            "Horner TV"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "17:00",
+        "date": "2025-10-11",
+        "date_de": "11.10.2025",
+        "ts": 1760194800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC PreussenPark 09",
+            "Horner TV"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-10-12",
+        "date_de": "12.10.2025",
+        "ts": 1760256000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf NMS 2",
+            "BV Gifhorn"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-10-12",
+        "date_de": "12.10.2025",
+        "ts": 1760256000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Tempelhof-Mariendorf",
+            "TSV Trittau [N] 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-10-12",
+        "date_de": "12.10.2025",
+        "ts": 1760256000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV RW Wesel",
+            "BC Hohenlimburg"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "14:00",
+        "date": "2025-10-12",
+        "date_de": "12.10.2025",
+        "ts": 1760270400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Spvgg Sterkrade-Nord",
+            "SC Union 08 Lüdinghausen 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-10-18",
+        "date_de": "18.10.2025",
+        "ts": 1760788800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Witzhelden",
+            "1. BC Recklinghausen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-10-18",
+        "date_de": "18.10.2025",
+        "ts": 1760788800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 2",
+            "STC Blau-Weiss Solingen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2025-10-18",
+        "date_de": "18.10.2025",
+        "ts": 1760792400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Maintal 1978",
+            "SV Fun-Ball Dortelweil 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2025-10-18",
+        "date_de": "18.10.2025",
+        "ts": 1760792400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Hohenlimburg",
+            "TV Refrath 3"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "15:00",
+        "date": "2025-10-18",
+        "date_de": "18.10.2025",
+        "ts": 1760792400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1860 Hofheim",
+            "SV GutsMuths Jena"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2025-10-18",
+        "date_de": "18.10.2025",
+        "ts": 1760792400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Neuhausen-Nymphenb. München",
+            "BSV Eggenstein-Leopoldshafen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-10-18",
+        "date_de": "18.10.2025",
+        "ts": 1760796000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 2",
+            "VfB GW Mülheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-10-18",
+        "date_de": "18.10.2025",
+        "ts": 1760796000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Geretsried",
+            "BC Offenburg"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:30",
+        "date": "2025-10-18",
+        "date_de": "18.10.2025",
+        "ts": 1760797800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 2",
+            "TV 1884 Marktheidenfeld"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2025-10-18",
+        "date_de": "18.10.2025",
+        "ts": 1760799600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:30",
+        "date": "2025-10-18",
+        "date_de": "18.10.2025",
+        "ts": 1760801400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Schorndorf",
+            "TSV 1906 Freystadt"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "18:00",
+        "date": "2025-10-18",
+        "date_de": "18.10.2025",
+        "ts": 1760803200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SSV WBG Bochum",
+            "Gladbecker FC"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "18:00",
+        "date": "2025-10-18",
+        "date_de": "18.10.2025",
+        "ts": 1760803200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel 2",
+            "TV Refrath 3"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "10:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760860800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 2",
+            "SV Fun-Ball Dortelweil 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760864400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld",
+            "SC Union 08 Lüdinghausen"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "11:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760864400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Spvgg Sterkrade-Nord",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760864400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Neuhausen-Nymphenb. München",
+            "BC Offenburg"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760864400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 2",
+            "1. BC Recklinghausen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760864400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Witzhelden",
+            "VfB GW Mülheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760864400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Geretsried",
+            "BSV Eggenstein-Leopoldshafen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760864400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1860 Hofheim",
+            "TSV 1906 Freystadt"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760871600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel",
+            "SC Union 08 Lüdinghausen 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760875200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Maintal 1978",
+            "TV 1884 Marktheidenfeld"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760875200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf-NMS",
+            "TSV Trittau"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "14:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760875200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Schorndorf",
+            "SV GutsMuths Jena"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760875200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 2",
+            "Gladbecker FC"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:30",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760877000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim",
+            "1. BV Mülheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760878800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SSV WBG Bochum",
+            "STC Blau-Weiss Solingen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760878800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath",
+            "SV Fun-Ball Dortelweil"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2025-10-19",
+        "date_de": "19.10.2025",
+        "ts": 1760878800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena 2",
+            "PSV Saar"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2025-10-25",
+        "date_de": "25.10.2025",
+        "ts": 1761393600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Schwanheim",
+            "TB Andernach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2025-10-25",
+        "date_de": "25.10.2025",
+        "ts": 1761393600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV Gifhorn",
+            "SG VfB\/SC Peine"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-10-25",
+        "date_de": "25.10.2025",
+        "ts": 1761400800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf NMS 2",
+            "BC PreussenPark 09"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-10-25",
+        "date_de": "25.10.2025",
+        "ts": 1761400800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Horner TV",
+            "TSV Trittau [N] 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-10-25",
+        "date_de": "25.10.2025",
+        "ts": 1761400800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Hammer\/Altenholz\/Molfsee",
+            "TSV Tempelhof-Mariendorf"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-10-25",
+        "date_de": "25.10.2025",
+        "ts": 1761400800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 3",
+            "1. BC Sbr.-Bischmisheim 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "16:30",
+        "date": "2025-10-25",
+        "date_de": "25.10.2025",
+        "ts": 1761402600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Mainz-Zahlbach",
+            "BC Remagen"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "18:30",
+        "date": "2025-10-25",
+        "date_de": "25.10.2025",
+        "ts": 1761409800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV Gifhorn",
+            "SG Lengede\/Vechelde"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-10-26",
+        "date_de": "26.10.2025",
+        "ts": 1761469200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf NMS 2",
+            "TSV Tempelhof-Mariendorf"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-10-26",
+        "date_de": "26.10.2025",
+        "ts": 1761469200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Hammer\/Altenholz\/Molfsee",
+            "BC PreussenPark 09"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-10-26",
+        "date_de": "26.10.2025",
+        "ts": 1761469200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena 2",
+            "1. BC Sbr.-Bischmisheim 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "10:00",
+        "date": "2025-10-26",
+        "date_de": "26.10.2025",
+        "ts": 1761469200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Schwanheim",
+            "BC Remagen"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "10:00",
+        "date": "2025-10-26",
+        "date_de": "26.10.2025",
+        "ts": 1761469200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 3",
+            "PSV Saar"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "11:00",
+        "date": "2025-10-26",
+        "date_de": "26.10.2025",
+        "ts": 1761472800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Mainz-Zahlbach",
+            "TB Andernach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2025-10-26",
+        "date_de": "26.10.2025",
+        "ts": 1761483600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV RW Wesel",
+            "Gladbecker FC 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2025-11-01",
+        "date_de": "01.11.2025",
+        "ts": 1762016400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. CfB Köln",
+            "BV RW Wesel"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "15:00",
+        "date": "2025-11-15",
+        "date_de": "15.11.2025",
+        "ts": 1763215200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC 2",
+            "1. BC Beuel 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2025-11-15",
+        "date_de": "15.11.2025",
+        "ts": 1763226000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 3",
+            "BC Hohenlimburg"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "19:00",
+        "date": "2025-11-15",
+        "date_de": "15.11.2025",
+        "ts": 1763229600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV RW Wesel",
+            "1. BC Wipperfeld 3"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "14:00",
+        "date": "2025-11-16",
+        "date_de": "16.11.2025",
+        "ts": 1763298000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Spvgg Sterkrade-Nord",
+            "1. BC Beuel"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-11-22",
+        "date_de": "22.11.2025",
+        "ts": 1763816400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Witzhelden",
+            "TV Refrath 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-11-22",
+        "date_de": "22.11.2025",
+        "ts": 1763816400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Horner TV",
+            "BV Gifhorn"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-11-22",
+        "date_de": "22.11.2025",
+        "ts": 1763823600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Lengede\/Vechelde",
+            "Blau-Weiss Wittorf NMS 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-11-22",
+        "date_de": "22.11.2025",
+        "ts": 1763823600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG VfB\/SC Peine",
+            "SG Hammer\/Altenholz\/Molfsee"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-11-22",
+        "date_de": "22.11.2025",
+        "ts": 1763823600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "STC Blau-Weiss Solingen",
+            "Gladbecker FC"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-11-22",
+        "date_de": "22.11.2025",
+        "ts": 1763823600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Tempelhof-Mariendorf",
+            "BC PreussenPark 09"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2025-11-22",
+        "date_de": "22.11.2025",
+        "ts": 1763823600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 2",
+            "SSV WBG Bochum"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2025-11-22",
+        "date_de": "22.11.2025",
+        "ts": 1763827200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Recklinghausen",
+            "VfB GW Mülheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "18:00",
+        "date": "2025-11-22",
+        "date_de": "22.11.2025",
+        "ts": 1763830800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim 2",
+            "1. BC Beuel 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2025-11-22",
+        "date_de": "22.11.2025",
+        "ts": 1763830800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Hohenlimburg",
+            "Gladbecker FC 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2025-11-22",
+        "date_de": "22.11.2025",
+        "ts": 1763830800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. CfB Köln",
+            "TV Refrath 3"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "19:00",
+        "date": "2025-11-22",
+        "date_de": "22.11.2025",
+        "ts": 1763834400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Lengede\/Vechelde",
+            "SG Hammer\/Altenholz\/Molfsee"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-11-23",
+        "date_de": "23.11.2025",
+        "ts": 1763888400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG VfB\/SC Peine",
+            "Blau-Weiss Wittorf NMS 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-11-23",
+        "date_de": "23.11.2025",
+        "ts": 1763888400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau [N] 2",
+            "BV Gifhorn"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2025-11-23",
+        "date_de": "23.11.2025",
+        "ts": 1763888400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Berliner Brauereien",
+            "SC Union 08 Lüdinghausen 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-11-23",
+        "date_de": "23.11.2025",
+        "ts": 1763892000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1884 Marktheidenfeld",
+            "SV Fun-Ball Dortelweil 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-11-23",
+        "date_de": "23.11.2025",
+        "ts": 1763892000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Offenburg",
+            "BSV Eggenstein-Leopoldshafen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:30",
+        "date": "2025-11-23",
+        "date_de": "23.11.2025",
+        "ts": 1763893800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1860 Hofheim",
+            "SG Schorndorf"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2025-11-23",
+        "date_de": "23.11.2025",
+        "ts": 1763895600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Geretsried",
+            "TSV Neuhausen-Nymphenb. München"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2025-11-23",
+        "date_de": "23.11.2025",
+        "ts": 1763895600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Maintal 1978",
+            "1. BC Sbr.-Bischmisheim 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-11-23",
+        "date_de": "23.11.2025",
+        "ts": 1763902800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV 1906 Freystadt",
+            "SV GutsMuths Jena"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-11-23",
+        "date_de": "23.11.2025",
+        "ts": 1763902800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 2",
+            "SV GutsMuths Jena"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764417600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 2",
+            "SC Union 08 Lüdinghausen 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764417600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 3",
+            "1. BV Mülheim 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "13:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764417600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf-NMS",
+            "1. BC Wipperfeld"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "14:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764421200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Spvgg Sterkrade-Nord",
+            "1. BC Wipperfeld 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764421200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Witzhelden",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764421200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Schwanheim",
+            "SV GutsMuths Jena 2"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764421200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "PSV Saar",
+            "TB Andernach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "15:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764424800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau",
+            "1. BC Sbr.-Bischmisheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764424800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "VfB GW Mülheim",
+            "Gladbecker FC"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764424800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BSV Eggenstein-Leopoldshafen",
+            "TV 1860 Hofheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764428400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Neuhausen-Nymphenb. München",
+            "1. BV Maintal 1978"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764428400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1884 Marktheidenfeld",
+            "TSV 1906 Freystadt"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764428400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Geretsried",
+            "1. BC Sbr.-Bischmisheim 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:30",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764430200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Recklinghausen",
+            "STC Blau-Weiss Solingen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764432000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 3",
+            "BC Remagen"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "17:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764432000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Offenburg",
+            "SG Schorndorf"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764432000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath",
+            "1. BV Mülheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "17:00",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764432000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel",
+            "SSV WBG Bochum"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:30",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764433800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil",
+            "SC Union 08 Lüdinghausen"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "17:30",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764433800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Mainz-Zahlbach",
+            "SV Fun-Ball Dortelweil 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "18:30",
+        "date": "2025-11-29",
+        "date_de": "29.11.2025",
+        "ts": 1764437400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Schwanheim",
+            "SV Fun-Ball Dortelweil 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "10:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764493200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Recklinghausen",
+            "Gladbecker FC"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764496800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BSV Eggenstein-Leopoldshafen",
+            "SG Schorndorf"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764496800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "PSV Saar",
+            "BC Remagen"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "11:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764496800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Spvgg Sterkrade-Nord",
+            "SSV WBG Bochum"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764496800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1884 Marktheidenfeld",
+            "SV GutsMuths Jena"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764496800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 2",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764496800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Witzhelden",
+            "SC Union 08 Lüdinghausen 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764496800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Geretsried",
+            "1. BV Maintal 1978"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764496800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Offenburg",
+            "TV 1860 Hofheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:30",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764498600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil",
+            "1. BV Mülheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "11:30",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764498600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 3",
+            "TB Andernach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "12:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764500400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Neuhausen-Nymphenb. München",
+            "1. BC Sbr.-Bischmisheim 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764500400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "VfB GW Mülheim",
+            "STC Blau-Weiss Solingen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764500400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau",
+            "1. BC Wipperfeld"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "13:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764504000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel",
+            "1. BC Wipperfeld 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764507600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf-NMS",
+            "1. BC Sbr.-Bischmisheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "14:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764507600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Mainz-Zahlbach",
+            "SV GutsMuths Jena 2"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764507600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath",
+            "SC Union 08 Lüdinghausen"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764511200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 2",
+            "TSV 1906 Freystadt"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-11-30",
+        "date_de": "30.11.2025",
+        "ts": 1764514800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel 2",
+            "BC Hohenlimburg"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2025-12-06",
+        "date_de": "06.12.2025",
+        "ts": 1765040400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 3",
+            "1. CfB Köln"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "19:00",
+        "date": "2025-12-06",
+        "date_de": "06.12.2025",
+        "ts": 1765044000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 3",
+            "BV RW Wesel"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "19:00",
+        "date": "2025-12-06",
+        "date_de": "06.12.2025",
+        "ts": 1765044000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 2",
+            "BC Offenburg"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766232000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld",
+            "TV Refrath"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "13:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766232000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC",
+            "1. BC Beuel"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766232000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen 2",
+            "VfB GW Mülheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766232000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Berliner Brauereien",
+            "1. BC Recklinghausen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766232000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Maintal 1978",
+            "BSV Eggenstein-Leopoldshafen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766239200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1860 Hofheim",
+            "TV 1884 Marktheidenfeld"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766239200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV 1906 Freystadt",
+            "TSV Neuhausen-Nymphenb. München"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:30",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766244600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim",
+            "SV Fun-Ball Dortelweil"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "17:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766246400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 2",
+            "TV Witzhelden"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766246400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim",
+            "Blau-Weiss Wittorf-NMS"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "17:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766246400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen",
+            "TSV Trittau"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "17:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766246400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SSV WBG Bochum",
+            "TV Refrath 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766246400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "STC Blau-Weiss Solingen",
+            "Spvgg Sterkrade-Nord"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766246400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena",
+            "TuS Geretsried"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766246400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC 2",
+            "1. BV Mülheim 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766250000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Schorndorf",
+            "SV Fun-Ball Dortelweil 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "18:00",
+        "date": "2025-12-20",
+        "date_de": "20.12.2025",
+        "ts": 1766250000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 2",
+            "BSV Eggenstein-Leopoldshafen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766311200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Maintal 1978",
+            "BC Offenburg"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766311200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim",
+            "TSV Trittau"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "11:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766311200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen 2",
+            "1. BC Recklinghausen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766311200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SSV WBG Bochum",
+            "TV Witzhelden"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766311200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "STC Blau-Weiss Solingen",
+            "1. BC Beuel"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766311200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Berliner Brauereien",
+            "VfB GW Mülheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766311200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena",
+            "TSV Neuhausen-Nymphenb. München"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766311200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1860 Hofheim",
+            "SV Fun-Ball Dortelweil 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766311200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld",
+            "SV Fun-Ball Dortelweil"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "12:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766314800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC",
+            "Spvgg Sterkrade-Nord"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766314800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Schorndorf",
+            "TV 1884 Marktheidenfeld"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766318400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV 1906 Freystadt",
+            "TuS Geretsried"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766322000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim",
+            "TV Refrath"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766325600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen",
+            "Blau-Weiss Wittorf-NMS"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766325600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 2",
+            "TV Refrath 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2025-12-21",
+        "date_de": "21.12.2025",
+        "ts": 1766329200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen 2",
+            "STC Blau-Weiss Solingen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768651200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Berliner Brauereien",
+            "Gladbecker FC"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768651200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel 2",
+            "BV RW Wesel"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "13:30",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768653000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Spvgg Sterkrade-Nord",
+            "TV Refrath 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768654800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Maintal 1978",
+            "TSV 1906 Freystadt"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768658400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1860 Hofheim",
+            "TSV Neuhausen-Nymphenb. München"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768658400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "VfB GW Mülheim",
+            "SSV WBG Bochum"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768658400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Horner TV",
+            "SG Hammer\/Altenholz\/Molfsee"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768662000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Lengede\/Vechelde",
+            "BC PreussenPark 09"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768662000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG VfB\/SC Peine",
+            "TSV Tempelhof-Mariendorf"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768662000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 2",
+            "BSV Eggenstein-Leopoldshafen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768662000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau [N] 2",
+            "Blau-Weiss Wittorf NMS 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768662000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1884 Marktheidenfeld",
+            "BC Offenburg"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768662000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 2",
+            "SV GutsMuths Jena"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768665600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel",
+            "TV Witzhelden"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:30",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768667400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Recklinghausen",
+            "1. BC Wipperfeld 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "18:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768669200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC 2",
+            "1. CfB Köln"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768669200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Schorndorf",
+            "TuS Geretsried"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "18:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768669200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 3",
+            "1. BC Wipperfeld 3"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "19:00",
+        "date": "2026-01-17",
+        "date_de": "17.01.2026",
+        "ts": 1768672800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Horner TV",
+            "Blau-Weiss Wittorf NMS 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768726800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Lengede\/Vechelde",
+            "TSV Tempelhof-Mariendorf"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768726800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG VfB\/SC Peine",
+            "BC PreussenPark 09"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768726800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 2",
+            "BC Offenburg"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "10:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768726800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau [N] 2",
+            "SG Hammer\/Altenholz\/Molfsee"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768726800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Recklinghausen",
+            "SSV WBG Bochum"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768730400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 2",
+            "TSV 1906 Freystadt"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768730400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim 2",
+            "BC Hohenlimburg"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "11:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768730400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen 2",
+            "Gladbecker FC"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768730400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Berliner Brauereien",
+            "STC Blau-Weiss Solingen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768730400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Spvgg Sterkrade-Nord",
+            "TV Witzhelden"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768730400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1860 Hofheim",
+            "TuS Geretsried"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768730400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1884 Marktheidenfeld",
+            "BSV Eggenstein-Leopoldshafen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768730400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "VfB GW Mülheim",
+            "1. BC Wipperfeld 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768734000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel",
+            "TV Refrath 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768741200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Maintal 1978",
+            "SV GutsMuths Jena"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768741200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf-NMS",
+            "TV Refrath"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "14:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768741200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil",
+            "TSV Trittau"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "14:30",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768743000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim",
+            "1. BC Wipperfeld"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768744800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen",
+            "1. BV Mülheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768744800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Schorndorf",
+            "TSV Neuhausen-Nymphenb. München"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2026-01-18",
+        "date_de": "18.01.2026",
+        "ts": 1768744800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 2",
+            "TV Witzhelden"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-01-24",
+        "date_de": "24.01.2026",
+        "ts": 1769256000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena 2",
+            "SV Fun-Ball Dortelweil 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2026-01-24",
+        "date_de": "24.01.2026",
+        "ts": 1769259600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. CfB Köln",
+            "1. BC Wipperfeld 3"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "15:00",
+        "date": "2026-01-24",
+        "date_de": "24.01.2026",
+        "ts": 1769263200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Remagen",
+            "TB Andernach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "15:00",
+        "date": "2026-01-24",
+        "date_de": "24.01.2026",
+        "ts": 1769263200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Schorndorf",
+            "TV 1860 Hofheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2026-01-24",
+        "date_de": "24.01.2026",
+        "ts": 1769263200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BSV Eggenstein-Leopoldshafen",
+            "BC Offenburg"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2026-01-24",
+        "date_de": "24.01.2026",
+        "ts": 1769266800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 3",
+            "PSV Saar"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "17:00",
+        "date": "2026-01-24",
+        "date_de": "24.01.2026",
+        "ts": 1769270400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim 2",
+            "Gladbecker FC 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2026-01-24",
+        "date_de": "24.01.2026",
+        "ts": 1769274000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV RW Wesel",
+            "TV Refrath 3"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2026-01-24",
+        "date_de": "24.01.2026",
+        "ts": 1769274000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Schwanheim",
+            "TV Mainz-Zahlbach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "18:00",
+        "date": "2026-01-24",
+        "date_de": "24.01.2026",
+        "ts": 1769274000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Hohenlimburg",
+            "1. BC Beuel 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "10:00",
+        "date": "2026-01-25",
+        "date_de": "25.01.2026",
+        "ts": 1769331600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 2",
+            "1. BV Maintal 1978"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-01-25",
+        "date_de": "25.01.2026",
+        "ts": 1769335200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen 2",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-01-25",
+        "date_de": "25.01.2026",
+        "ts": 1769335200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SSV WBG Bochum",
+            "1. BC Wipperfeld 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-01-25",
+        "date_de": "25.01.2026",
+        "ts": 1769335200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 2",
+            "TV 1884 Marktheidenfeld"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-01-25",
+        "date_de": "25.01.2026",
+        "ts": 1769335200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC",
+            "STC Blau-Weiss Solingen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2026-01-25",
+        "date_de": "25.01.2026",
+        "ts": 1769338800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Neuhausen-Nymphenb. München",
+            "TuS Geretsried"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2026-01-25",
+        "date_de": "25.01.2026",
+        "ts": 1769338800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel",
+            "Spvgg Sterkrade-Nord"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-01-25",
+        "date_de": "25.01.2026",
+        "ts": 1769346000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "VfB GW Mülheim",
+            "1. BC Recklinghausen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-01-25",
+        "date_de": "25.01.2026",
+        "ts": 1769346000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena",
+            "TSV 1906 Freystadt"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:30",
+        "date": "2026-01-25",
+        "date_de": "25.01.2026",
+        "ts": 1769347800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 2",
+            "SC Union 08 Lüdinghausen 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770462000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 2",
+            "TV 1860 Hofheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770465600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 2",
+            "Gladbecker FC"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770465600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel 2",
+            "1. BV Mülheim 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "13:30",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770467400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena 2",
+            "TuS Schwanheim"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770469200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Spvgg Sterkrade-Nord",
+            "1. BC Recklinghausen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770469200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TB Andernach",
+            "PSV Saar"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770469200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Witzhelden",
+            "STC Blau-Weiss Solingen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770469200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Maintal 1978",
+            "SG Schorndorf"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770472800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Remagen",
+            "1. BC Sbr.-Bischmisheim 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "15:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770472800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BSV Eggenstein-Leopoldshafen",
+            "SV GutsMuths Jena"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770476400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf NMS 2",
+            "SG Hammer\/Altenholz\/Molfsee"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770476400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Lengede\/Vechelde",
+            "TSV Trittau [N] 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770476400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG VfB\/SC Peine",
+            "Horner TV"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770476400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Neuhausen-Nymphenb. München",
+            "SV Fun-Ball Dortelweil 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770476400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Tempelhof-Mariendorf",
+            "BV Gifhorn"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770476400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 3",
+            "TV Mainz-Zahlbach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "16:30",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770478200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Geretsried",
+            "TV 1884 Marktheidenfeld"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:30",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770478200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Offenburg",
+            "TSV 1906 Freystadt"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770480000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 3",
+            "1. CfB Köln"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "17:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770480000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel",
+            "VfB GW Mülheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:30",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770481800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC 2",
+            "BC Hohenlimburg"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770483600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SSV WBG Bochum",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "18:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770483600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 3",
+            "BV RW Wesel"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "19:00",
+        "date": "2026-02-07",
+        "date_de": "07.02.2026",
+        "ts": 1770487200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC PreussenPark 09",
+            "BV Gifhorn"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770541200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Lengede\/Vechelde",
+            "Horner TV"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770541200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG VfB\/SC Peine",
+            "TSV Trittau [N] 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770541200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena 2",
+            "TV Mainz-Zahlbach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "10:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770541200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 2",
+            "SG Schorndorf"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770544800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld",
+            "1. BV Mülheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "11:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770544800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BSV Eggenstein-Leopoldshafen",
+            "TSV 1906 Freystadt"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770544800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 3",
+            "TuS Schwanheim"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "11:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770544800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Spvgg Sterkrade-Nord",
+            "VfB GW Mülheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770544800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TB Andernach",
+            "1. BC Sbr.-Bischmisheim 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "11:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770544800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 2",
+            "STC Blau-Weiss Solingen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770544800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 3",
+            "1. BC Beuel 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "11:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770544800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Witzhelden",
+            "Gladbecker FC"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770544800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Geretsried",
+            "SV Fun-Ball Dortelweil 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770544800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Offenburg",
+            "SV GutsMuths Jena"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:30",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770546600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Neuhausen-Nymphenb. München",
+            "TV 1884 Marktheidenfeld"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770548400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Remagen",
+            "PSV Saar"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "13:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770552000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel",
+            "1. BC Recklinghausen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770555600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Maintal 1978",
+            "TV 1860 Hofheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770555600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf-NMS",
+            "SV Fun-Ball Dortelweil"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "14:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770555600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 2",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:30",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770557400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim",
+            "SC Union 08 Lüdinghausen"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770559200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SSV WBG Bochum",
+            "SC Union 08 Lüdinghausen 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770559200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath",
+            "TSV Trittau"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2026-02-08",
+        "date_de": "08.02.2026",
+        "ts": 1770559200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC 2",
+            "BV RW Wesel"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2026-02-14",
+        "date_de": "14.02.2026",
+        "ts": 1771088400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Hohenlimburg",
+            "1. BC Wipperfeld 3"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "11:00",
+        "date": "2026-02-15",
+        "date_de": "15.02.2026",
+        "ts": 1771149600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC",
+            "SSV WBG Bochum"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771675200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen 2",
+            "Spvgg Sterkrade-Nord"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771675200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Berliner Brauereien",
+            "1. BC Beuel"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771675200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "STC Blau-Weiss Solingen",
+            "1. BC Wipperfeld 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771678800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "VfB GW Mülheim",
+            "TV Refrath 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771682400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BSV Eggenstein-Leopoldshafen",
+            "TSV Neuhausen-Nymphenb. München"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771686000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV Gifhorn",
+            "SG Hammer\/Altenholz\/Molfsee"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771686000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Horner TV",
+            "TSV Tempelhof-Mariendorf"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771686000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Lengede\/Vechelde",
+            "SG VfB\/SC Peine"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771686000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 2",
+            "1. BV Maintal 1978"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771686000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau [N] 2",
+            "BC PreussenPark 09"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771686000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1884 Marktheidenfeld",
+            "1. BC Sbr.-Bischmisheim 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771686000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV 1906 Freystadt",
+            "SG Schorndorf"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:30",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771687800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Offenburg",
+            "TuS Geretsried"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771689600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena",
+            "TV 1860 Hofheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771689600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel 2",
+            "Gladbecker FC 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771693200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Recklinghausen",
+            "TV Witzhelden"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "18:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771693200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim 2",
+            "TV Refrath 3"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771693200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV RW Wesel",
+            "1. CfB Köln"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2026-02-21",
+        "date_de": "21.02.2026",
+        "ts": 1771693200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau [N] 2",
+            "TSV Tempelhof-Mariendorf"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "09:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771747200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV Gifhorn",
+            "Blau-Weiss Wittorf NMS 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771750800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Horner TV",
+            "BC PreussenPark 09"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771750800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 2",
+            "1. BC Sbr.-Bischmisheim 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "10:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771750800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Recklinghausen",
+            "TV Refrath 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771754400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BSV Eggenstein-Leopoldshafen",
+            "TuS Geretsried"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771754400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen 2",
+            "1. BC Beuel"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771754400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Berliner Brauereien",
+            "Spvgg Sterkrade-Nord"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771754400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena",
+            "SG Schorndorf"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771754400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1884 Marktheidenfeld",
+            "1. BV Maintal 1978"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771754400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Offenburg",
+            "TSV Neuhausen-Nymphenb. München"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:30",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771756200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC",
+            "1. BC Wipperfeld 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771758000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "VfB GW Mülheim",
+            "TV Witzhelden"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "12:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771758000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau",
+            "Blau-Weiss Wittorf-NMS"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "13:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771761600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim",
+            "1. BC Sbr.-Bischmisheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "14:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771765200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "STC Blau-Weiss Solingen",
+            "SSV WBG Bochum"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771765200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV 1906 Freystadt",
+            "TV 1860 Hofheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771765200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil",
+            "TV Refrath"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "14:30",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771767000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen",
+            "1. BC Wipperfeld"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2026-02-22",
+        "date_de": "22.02.2026",
+        "ts": 1771768800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC PreussenPark 09",
+            "Blau-Weiss Wittorf NMS 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-02-28",
+        "date_de": "28.02.2026",
+        "ts": 1772290800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG VfB\/SC Peine",
+            "BV Gifhorn"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-02-28",
+        "date_de": "28.02.2026",
+        "ts": 1772290800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Tempelhof-Mariendorf",
+            "SG Hammer\/Altenholz\/Molfsee"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-02-28",
+        "date_de": "28.02.2026",
+        "ts": 1772290800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau [N] 2",
+            "Horner TV"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-02-28",
+        "date_de": "28.02.2026",
+        "ts": 1772290800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. CfB Köln",
+            "BC Hohenlimburg"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:30",
+        "date": "2026-02-28",
+        "date_de": "28.02.2026",
+        "ts": 1772299800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 3",
+            "1. BV Mülheim 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "19:00",
+        "date": "2026-02-28",
+        "date_de": "28.02.2026",
+        "ts": 1772301600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC PreussenPark 09",
+            "SG Hammer\/Altenholz\/Molfsee"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-03-01",
+        "date_de": "01.03.2026",
+        "ts": 1772355600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Lengede\/Vechelde",
+            "BV Gifhorn"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-03-01",
+        "date_de": "01.03.2026",
+        "ts": 1772355600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Tempelhof-Mariendorf",
+            "Blau-Weiss Wittorf NMS 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-03-01",
+        "date_de": "01.03.2026",
+        "ts": 1772355600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 2",
+            "TuS Geretsried"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772884800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld",
+            "Blau-Weiss Wittorf-NMS"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "13:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772884800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC",
+            "VfB GW Mülheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772884800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen 2",
+            "TV Refrath 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772884800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Berliner Brauereien",
+            "TV Witzhelden"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772884800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "STC Blau-Weiss Solingen",
+            "1. BC Recklinghausen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772888400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena 2",
+            "TB Andernach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772888400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Schwanheim",
+            "PSV Saar"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772888400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Maintal 1978",
+            "TSV Neuhausen-Nymphenb. München"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772892000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Schorndorf",
+            "BC Offenburg"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772892000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1860 Hofheim",
+            "BSV Eggenstein-Leopoldshafen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772892000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 2",
+            "Spvgg Sterkrade-Nord"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:30",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772897400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 3",
+            "BC Remagen"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "16:30",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772897400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV 1906 Freystadt",
+            "TV 1884 Marktheidenfeld"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:30",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772897400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim",
+            "TSV Trittau"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "17:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772899200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim",
+            "TV Refrath"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "17:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772899200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen",
+            "SV Fun-Ball Dortelweil"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "17:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772899200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SSV WBG Bochum",
+            "1. BC Beuel"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772899200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel 2",
+            "1. BC Wipperfeld 3"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772902800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim 2",
+            "1. CfB Köln"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "18:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772902800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena",
+            "SV Fun-Ball Dortelweil 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "18:00",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772902800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Mainz-Zahlbach",
+            "1. BC Sbr.-Bischmisheim 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "18:30",
+        "date": "2026-03-07",
+        "date_de": "07.03.2026",
+        "ts": 1772904600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena 2",
+            "BC Remagen"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "10:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772960400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Schwanheim",
+            "1. BC Sbr.-Bischmisheim 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "10:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772960400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 2",
+            "TSV Neuhausen-Nymphenb. München"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772964000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim",
+            "SV Fun-Ball Dortelweil"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "11:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772964000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Hohenlimburg",
+            "BV RW Wesel"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "11:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772964000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC",
+            "1. BC Recklinghausen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772964000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen 2",
+            "TV Witzhelden"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772964000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Berliner Brauereien",
+            "TV Refrath 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772964000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1860 Hofheim",
+            "BC Offenburg"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772964000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld",
+            "TSV Trittau"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "12:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772967600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Schorndorf",
+            "BSV Eggenstein-Leopoldshafen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772971200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 3",
+            "TB Andernach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "13:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772971200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Maintal 1978",
+            "TuS Geretsried"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772974800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "STC Blau-Weiss Solingen",
+            "VfB GW Mülheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772974800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV 1906 Freystadt",
+            "SV Fun-Ball Dortelweil 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772974800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Mainz-Zahlbach",
+            "PSV Saar"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772974800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV GutsMuths Jena",
+            "TV 1884 Marktheidenfeld"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:30",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772976600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim",
+            "Blau-Weiss Wittorf-NMS"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772978400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen",
+            "TV Refrath"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772978400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SSV WBG Bochum",
+            "Spvgg Sterkrade-Nord"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:00",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772978400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 2",
+            "1. BC Beuel"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "15:30",
+        "date": "2026-03-08",
+        "date_de": "08.03.2026",
+        "ts": 1772980200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC PreussenPark 09",
+            "TSV Tempelhof-Mariendorf"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-03-14",
+        "date_de": "14.03.2026",
+        "ts": 1773500400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV Gifhorn",
+            "Horner TV"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-03-14",
+        "date_de": "14.03.2026",
+        "ts": 1773500400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf NMS 2",
+            "SG Lengede\/Vechelde"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-03-14",
+        "date_de": "14.03.2026",
+        "ts": 1773500400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Hammer\/Altenholz\/Molfsee",
+            "SG VfB\/SC Peine"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "16:00",
+        "date": "2026-03-14",
+        "date_de": "14.03.2026",
+        "ts": 1773500400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV Gifhorn",
+            "TSV Trittau [N] 2"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-03-15",
+        "date_de": "15.03.2026",
+        "ts": 1773565200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf NMS 2",
+            "SG VfB\/SC Peine"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-03-15",
+        "date_de": "15.03.2026",
+        "ts": 1773565200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SG Hammer\/Altenholz\/Molfsee",
+            "SG Lengede\/Vechelde"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "10:00",
+        "date": "2026-03-15",
+        "date_de": "15.03.2026",
+        "ts": 1773565200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 2",
+            "SG Schorndorf"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774094400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 2",
+            "SSV WBG Bochum"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "13:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774094400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf-NMS",
+            "1. BV Mülheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "14:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774098000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Spvgg Sterkrade-Nord",
+            "STC Blau-Weiss Solingen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774098000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TB Andernach",
+            "TuS Schwanheim"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774098000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Neuhausen-Nymphenb. München",
+            "TSV 1906 Freystadt"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774098000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Witzhelden",
+            "1. BC Wipperfeld 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774098000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "VfB GW Mülheim",
+            "SC Union 08 Lüdinghausen 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "14:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774098000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "PSV Saar",
+            "SV GutsMuths Jena 2"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "14:30",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774099800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Remagen",
+            "TV Mainz-Zahlbach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "15:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774101600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC 2",
+            "TV Refrath 3"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "15:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774101600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau",
+            "SC Union 08 Lüdinghausen"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774101600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BSV Eggenstein-Leopoldshafen",
+            "1. BV Maintal 1978"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774105200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1884 Marktheidenfeld",
+            "TV 1860 Hofheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774105200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Geretsried",
+            "SV GutsMuths Jena"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "16:30",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774107000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Recklinghausen",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774108800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 3",
+            "SV Fun-Ball Dortelweil 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "17:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774108800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Offenburg",
+            "1. BC Sbr.-Bischmisheim 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774108800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath",
+            "1. BC Wipperfeld"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "17:00",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774108800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel",
+            "Gladbecker FC"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "17:30",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774110600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil",
+            "1. BC Sbr.-Bischmisheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "17:30",
+        "date": "2026-03-21",
+        "date_de": "21.03.2026",
+        "ts": 1774110600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Beuel",
+            "STC Blau-Weiss Solingen"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Recklinghausen",
+            "SC Union 08 Lüdinghausen 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Sbr.-Bischmisheim 3",
+            "SV GutsMuths Jena 2"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BC Wipperfeld 3",
+            "Gladbecker FC 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. CfB Köln",
+            "1. BC Beuel 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Offenburg",
+            "1. BV Maintal 1978"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Remagen",
+            "TuS Schwanheim"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BSV Eggenstein-Leopoldshafen",
+            "1. BC Sbr.-Bischmisheim 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BV RW Wesel",
+            "1. BV Mülheim 2"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "PSV Saar",
+            "SV Fun-Ball Dortelweil 3"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil 2",
+            "TV 1860 Hofheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Spvgg Sterkrade-Nord",
+            "Gladbecker FC"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TB Andernach",
+            "TV Mainz-Zahlbach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Neuhausen-Nymphenb. München",
+            "SV GutsMuths Jena"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV 1884 Marktheidenfeld",
+            "SG Schorndorf"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 2",
+            "1. BC Wipperfeld 2"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath 3",
+            "BC Hohenlimburg"
+        ],
+        "league_key": "RLW-2016",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Witzhelden",
+            "SSV WBG Bochum"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TuS Geretsried",
+            "TSV 1906 Freystadt"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "VfB GW Mülheim",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774173600
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Blau-Weiss Wittorf-NMS",
+            "SC Union 08 Lüdinghausen"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774188000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SV Fun-Ball Dortelweil",
+            "1. BC Wipperfeld"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774188000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TSV Trittau",
+            "1. BV Mülheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774188000
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "TV Refrath",
+            "1. BC Sbr.-Bischmisheim"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2026-03-22",
+        "date_de": "22.03.2026",
+        "ts": 1774188000
     }
-
 ]

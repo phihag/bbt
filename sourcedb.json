@@ -1,8 +1,8 @@
 {
-"1.BC Wipperfeld": {
+"1. BC Wipperfeld": {
 	"type": "csde"
 },
-"1.BC Wipperfeld 2": {
+"1. BC Wipperfeld 2": {
 	"type": "csde"
 },
 "TSV Neuhausen-Nymphenburg München": {
@@ -48,7 +48,7 @@
 "Blau-Weiss Wittorf": {
 	"type": "csde"
 },
-"Blau-Weiss Wittorf-NMS 2": {
+"Blau-Weiss Wittorf NMS 2": {
 	"type": "csde"
 },
 "Horner TV": {
@@ -93,7 +93,7 @@
 "1.BC Beuel 3": {
 	"type": "csde"
 },
-"1.BV Mülheim": {
+"1. BV Mülheim": {
 	"type": "csde"
 },
 "1.BV Mülheim 2": {
@@ -349,6 +349,10 @@
 },
 
 "SSV WBG Bochum": {
+	"type": "none"
+},
+
+"BC PreussenPark 09": {
 	"type": "none"
 }
 
