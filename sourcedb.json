@@ -84,13 +84,13 @@
 "SG EBT Berlin": {
 	"type": "csde"
 },
-"1.BC Beuel": {
+"1. BC Beuel": {
 	"type": "csde"
 },
-"1.BC Beuel 2": {
+"1. BC Beuel 2": {
 	"type": "csde"
 },
-"1.BC Beuel 3": {
+"1. BC Beuel 3": {
 	"type": "csde"
 },
 "1. BV Mülheim": {
@@ -172,7 +172,7 @@
 	"btde_account": "tsvtrittau2"
 },
 
-"Spvgg.Sterkrade-N.": {
+"Spvgg Sterkrade-Nord": {
 	"type": "btde",
 	"btde_account": "spvggsterkradenord"
 },
