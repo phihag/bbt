@@ -156,6 +156,7 @@ function unify_team_name(team_name) {
 		'1.BC Beuel': '1. BC Beuel',
 		'1.BC Beuel 2': '1. BC Beuel 2',
 		'1.BC Beuel 3': '1. BC Beuel 3',
+		'1.BC Recklinghausen': '1. BC Recklinghausen',
 		'1.BC Sbr.-Bischmisheim': '1. BC Sbr.-Bischmisheim',
 		'1.BC Sbr.-Bischmisheim 2': '1. BC Sbr.-Bischmisheim 2',
 		'SC Union Lüdinghausen': 'SC Union 08 Lüdinghausen',
