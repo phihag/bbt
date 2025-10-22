@@ -49,7 +49,7 @@ const TEAM_NAMES = {
     '5-2': 'SG Lengede/Vechelde',
     '5-1': 'SG VfB/SC Peine',
     '5-7': 'TSV Tempelhof-Mariendorf',
-    '5-9': 'TSV Trittau',
+    '5-9': 'TSV Trittau 2',
     '6-19': '1. BC Sbr.-Bischmisheim 3',
     '6-18': 'BC Remagen',
     '6-20': 'PSV Saar',

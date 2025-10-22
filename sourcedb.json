@@ -67,6 +67,10 @@
 	"type": "btde",
 	"btde_account": "tsvtrittau"
 },
+"TSV Trittau 2": {
+	"type": "btde",
+	"btde_account": "tsvtrittau2"
+},
 "SC Union Lüdinghausen": {
 	"type": "csde"
 },
@@ -200,7 +204,7 @@
 "TV 1860 Hofheim 2": {
 	"type": "csde"
 },
-"TuS 1872 Schwanheim": {
+"TuS Schwanheim": {
 	"type": "csde"
 },
 
@@ -294,7 +298,7 @@
 "TV 1890 Volkmarsen": {
 	"type": "none"
 },
-"TV Mainz-Zahlbach 1862": {
+"TV Mainz-Zahlbach": {
 	"type": "csde"
 },
 

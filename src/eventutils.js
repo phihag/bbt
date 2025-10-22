@@ -151,6 +151,7 @@ function league_scoring(league_key) {
 
 function unify_team_name(team_name) {
 	team_name = team_name.replace('<wbr>', '');
+	team_name = team_name.replace(' [N]', '');
 	team_name = {
 		'STC BW Solingen': 'STC Blau-Weiss Solingen',
 		'1.BC Beuel': '1. BC Beuel',

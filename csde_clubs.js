@@ -34,6 +34,9 @@ async function main() {
 				name = name_m[1];
 			}
 			name = unify_team_name(name);
+			if (league === 5 && name === 'TSV Trittau') {
+				name = 'TSV Trittau 2';
+			}
 
 			const id = el.getElementsByTagName('Nummer')[0].textContent;
 			lines.push(`    '${league}-${id}': '${name}',`);
