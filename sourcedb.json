@@ -228,7 +228,8 @@
 },
 
 "1. BC Recklinghausen": {
-	"type": "none"
+	"type": "btde",
+	"btde_account": "bcrecklinghausen"
 },
 "TuS Neuhofen": {
 	"type": "csde"
