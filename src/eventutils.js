@@ -165,6 +165,8 @@ function unify_team_name(team_name) {
 		'TuS 1872  Schwanheim': 'TuS 1872 Schwanheim',
 		'1. BV Maintal 1978': '1. BV Maintal',
 		'1.BV Maintal': '1. BV Maintal',
+		'1. BV Mülheim': '1.BV Mülheim',
+		'1. BC Wipperfeld 2': '1.BC Wipperfeld 2',
 		'SG Gifhorn/Nienburg': 'BV Gifhorn',
 		'SpVgg Sterkrade-Nord': 'Spvgg.Sterkrade-N.',
 		'TSV Neuhausen-Nymphenburg': 'TSV Neuhausen-Nymphenburg München',

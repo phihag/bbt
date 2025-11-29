@@ -3,7 +3,7 @@
 const TEAM_NAMES = {
     '1-4': '1. BC Sbr.-Bischmisheim',
     '1-2': '1. BC Wipperfeld',
-    '1-7': '1. BV Mülheim',
+    '1-7': '1.BV Mülheim',
     '1-3': 'Blau-Weiss Wittorf',
     '1-5': 'SC Union 08 Lüdinghausen',
     '1-1': 'SV Fun-Ball Dortelweil',
@@ -11,7 +11,7 @@ const TEAM_NAMES = {
     '1-6': 'TV Refrath',
     '2-9': '1. BC Beuel',
     '2-18': '1. BC Recklinghausen',
-    '2-10': '1. BC Wipperfeld 2',
+    '2-10': '1.BC Wipperfeld 2',
     '2-14': 'Gladbecker FC',
     '2-16': 'SC Union 08 Lüdinghausen 2',
     '2-11': 'Spvgg Sterkrade-Nord',
