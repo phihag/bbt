@@ -5,6 +5,9 @@
 "1. BC Wipperfeld 2": {
 	"type": "csde"
 },
+"1. BC Wipperfeld 3": {
+	"type": "csde"
+},
 "TSV Neuhausen-Nymphenburg München": {
 	"type": "btde",
 	"btde_account": "tsvneuhausennymphenburg"
