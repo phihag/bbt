@@ -2,7 +2,7 @@
 "1. BC Wipperfeld": {
 	"type": "csde"
 },
-"1. BC Wipperfeld 2": {
+"1.BC Wipperfeld 2": {
 	"type": "csde"
 },
 "1. BC Wipperfeld 3": {
@@ -100,7 +100,7 @@
 "1. BC Beuel 3": {
 	"type": "csde"
 },
-"1. BV Mülheim": {
+"1.BV Mülheim": {
 	"type": "csde"
 },
 "1. BV Mülheim 2": {
@@ -244,6 +244,10 @@
 "Gladbecker FC": {
 	"type": "btde",
 	"btde_account": "gladbeckerfc"
+},
+"Gladbecker FC 2": {
+	"type": "btde",
+	"btde_account": "gladbeckerfc2"
 },
 "BC Phönix Hövelhof": {
 	"type": "csde"

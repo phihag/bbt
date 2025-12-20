@@ -53,6 +53,7 @@ const ALIAS_NAMES = {
 	'1. BV Mülheim 2': '1.BV Mülheim 2',
 	'1. BV Muelheim 2': '1.BV Mülheim 2',
 	'1. BC Wipperfeld 1': '1.BC Wipperfeld',
+	'1. BC Wipperfeld 2': '1.BC Wipperfeld 2',
 	'SV Fun-Ball Dortelweil 1': 'SV Fun-Ball Dortelweil',
 	'Blau-Weiss Wittorf-NMS 1': 'Blau-Weiss Wittorf-NMS',
 	'TSV Freystadt': 'TSV 1906 Freystadt',
