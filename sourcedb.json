@@ -361,7 +361,8 @@
 },
 
 "SSV WBG Bochum": {
-	"type": "none"
+	"type": "btde",
+	"btde_account": "ssvwbgbochum"
 },
 
 "BC PreussenPark 09": {
