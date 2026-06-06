@@ -5,8 +5,8 @@ const path = require('path');
 
 const render = require('./render');
 const {team_data} = require('./data');
-const {pluck} = require('../bup/js/utils.js');
-const {read_json, read_json_async} = require('./utils');
+const {read_json_async} = require('./utils');
+const {pluck, name_by_league} = require('./bup_ports');
 
 const ROOT_DIR = path.dirname(__dirname);
 
@@ -31,11 +31,13 @@ async function api_handler(req, res) {
 	// Transform for API
 	const outData = inData.map(d => {
 		const matchData = pluck(d, [
-			'matches',
-			'team_names',
+			'league_key',
 			'scoring',
+			'team_names',
 			'mscore',
+			'matches',
 		]);
+		matchData.league_name = name_by_league(matchData.league_key);
 		return matchData;
 	});
 
@@ -94,7 +96,7 @@ function streamteam_handler(req, res) {
 	const shortname = req.params.shortname;
 	res.redirect(
 		`/bup/#display&dm_style=streamteam&bbt_poll=${shortname}` +
-		`&court=referee&nosettings&team_colors=true`);
+		'&court=referee&nosettings&team_colors=true');
 }
 
 function streamcourt_handler(req, res) {
