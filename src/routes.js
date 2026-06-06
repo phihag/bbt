@@ -13,6 +13,7 @@ async function setup(cfg, app) {
 	app.use(favicon(path.dirname(__dirname) + '/static/favicon.ico'));
 
 	app.get('/', web_handlers.root_handler);
+	app.get('/api/state', web_handlers.api_handler);
 	app.get('/events.json', web_handlers.json_handler);
 	app.get('/embed.js', web_handlers.embed_handler);
 	app.get('/allteams', web_handlers.allteams_handler);

@@ -1,0 +1,263 @@
+[
+  {
+    "courts": [
+      {
+        "label": "1",
+        "match_id": "HD2"
+      },
+      {
+        "label": "2",
+        "match_id": "DE"
+      }
+    ],
+    "matches": [
+      {
+        "name": "HD1",
+        "players": [
+          [
+            {
+              "name": "Mads Vestergaard"
+            },
+            {
+              "name": "Daniel Lundgaard"
+            }
+          ],
+          [
+            {
+              "name": "Marvin Seidel"
+            },
+            {
+              "name": "Frederik Søgaard"
+            }
+          ]
+        ],
+        "score": [
+          [
+            9,
+            11
+          ],
+          [
+            10,
+            12
+          ],
+          [
+            10,
+            12
+          ]
+        ]
+      },
+      {
+        "name": "DD",
+        "players": [
+          [
+            {
+              "name": "Julie Macpherson"
+            },
+            {
+              "name": "Debora Jille"
+            }
+          ],
+          [
+            {
+              "name": "Isabel Lohau"
+            },
+            {
+              "name": "Sara Thygesen"
+            }
+          ]
+        ],
+        "score": [
+          [
+            11,
+            7
+          ],
+          [
+            10,
+            12
+          ],
+          [
+            10,
+            12
+          ],
+          [
+            7,
+            11
+          ]
+        ]
+      },
+      {
+        "name": "HD2",
+        "players": [
+          [
+            {
+              "name": "Christian Faust Kjaer"
+            },
+            {
+              "name": "William Kryger Boe"
+            }
+          ],
+          [
+            {
+              "name": "Julien Maio"
+            },
+            {
+              "name": "William Villeger"
+            }
+          ]
+        ],
+        "score": [
+          [
+            10,
+            12
+          ],
+          [
+            0,
+            11
+          ],
+          [
+            0,
+            11
+          ]
+        ]
+      },
+      {
+        "name": "HE1",
+        "players": [
+          [
+            {
+              "name": "Victor Svendsen"
+            }
+          ],
+          [
+            {
+              "name": "Mark Caljouw"
+            }
+          ]
+        ],
+        "score": [
+          [
+            11,
+            9
+          ],
+          [
+            6,
+            11
+          ],
+          [
+            10,
+            12
+          ],
+          [
+            11,
+            5
+          ],
+          [
+            11,
+            5
+          ]
+        ]
+      },
+      {
+        "name": "DE",
+        "players": [
+          [
+            {
+              "name": "Yvonne Li"
+            }
+          ],
+          [
+            {
+              "name": "Kaloyana Nalbantova"
+            }
+          ]
+        ],
+        "score": [
+          [
+            9,
+            11
+          ],
+          [
+            9,
+            11
+          ],
+          [
+            6,
+            11
+          ]
+        ]
+      },
+      {
+        "name": "GD",
+        "players": [
+          [
+            {
+              "name": "Mads Vestergaard"
+            },
+            {
+              "name": "Julie Macpherson"
+            }
+          ],
+          [
+            {
+              "name": "Marvin Seidel"
+            },
+            {
+              "name": "Isabel Lohau"
+            }
+          ]
+        ],
+        "score": []
+      },
+      {
+        "name": "HE2",
+        "players": [
+          [
+            {
+              "name": "Christian Faust Kjaer"
+            }
+          ],
+          [
+            {
+              "name": "Jonas Scheller"
+            }
+          ]
+        ],
+        "score": [
+          [
+            11,
+            4
+          ],
+          [
+            11,
+            4
+          ],
+          [
+            12,
+            10
+          ]
+        ]
+      }
+    ],
+    "ticker_state": {
+      "n": "15",
+      "s": "861"
+    },
+    "link": "https://courtspot.de/live/?Liga=14&b",
+    "team_names": [
+      "SV Fun-Ball Dortelweil",
+      "1. BC Sbr.-Bischmisheim"
+    ],
+    "scoring": "5x11_15^90",
+    "mscore": [
+      2,
+      4
+    ],
+    "starttime": "13:00",
+    "date": "2026-04-19",
+    "ts": 1776585414,
+    "league_key": "1BL-2020",
+    "url": "https://courtspot.de/php__Skripte/liveabfrage.php?l=14&v=1&g=4",
+    "team_competition": true,
+    "num": 0
+  }
+]

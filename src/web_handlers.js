@@ -5,6 +5,8 @@ const path = require('path');
 
 const render = require('./render');
 const {team_data} = require('./data');
+const {pluck} = require('../bup/js/utils.js');
+const {read_json, read_json_async} = require('./utils');
 
 const ROOT_DIR = path.dirname(__dirname);
 
@@ -14,6 +16,32 @@ function root_handler(req, res, next) {
 	render(req, res, next, 'root', {
 		events_json: JSON.stringify(events),
 	});
+}
+
+async function api_handler(req, res) {
+	let inData;
+	if (req.query.example !== undefined) {
+		const exampleFile = path.join(ROOT_DIR, 'div', 'api-example.json');
+		inData = await read_json_async(exampleFile);
+	} else {
+		// real data
+		inData = req.app.state_handlers.map(sh => sh.ev);
+	}
+
+	// Transform for API
+	const outData = inData.map(d => {
+		const matchData = pluck(d, [
+			'matches',
+			'team_names',
+			'scoring',
+			'mscore',
+		]);
+		return matchData;
+	});
+
+	res.setHeader('Content-Type', 'application/json');
+	res.setHeader('Cache-Control', 'no-cache, no-store, must-revalidate');
+	res.send(JSON.stringify(outData));
 }
 
 function json_handler(req, res) {
@@ -82,6 +110,7 @@ module.exports = {
 	allteams_handler,
 	embed_handler,
 	json_handler,
+	api_handler,
 	root_handler,
 	streams_handler,
 	stream_handler,
