@@ -27,7 +27,7 @@
     "rimraf": "*",
     "serve-favicon": "^2.5.0",
     "supervisor": "*",
-    "ws": "^7.1.2",
+    "ws": "^7.4.6",
     "xmldom": "*"
   },
   "devDependencies": {
