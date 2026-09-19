@@ -272,6 +272,9 @@
 "TB Andernach": {
 	"type": "csde"
 },
+"TB Andernach 2": {
+	"type": "none"
+},
 
 "OTG 1902 Gera": {
 	"type": "none"
@@ -367,7 +370,13 @@
 
 "BC PreussenPark 09": {
 	"type": "none"
-}
+},
 
+"SV Viktoria Herxheim": {
+	"type": "none"
+},
+"SSV Heiligenwald": {
+	"type": "none"
+}
 
 }

@@ -140,7 +140,7 @@ function run_once(cfg, src, sh, cb) {
 	const { btde_account } = src;
 	assert(btde_account, `Ǹo btde_account setting for ${JSON.stringify(src)}`);
 	assert(!btde_account.includes('/'));
-	const url = `https://badmintonticker.de/ticker/api/?team=${encodeURIComponent(btde_account)}&uts=0&lh=0&lg=0`;
+	const url = `https://badmintonticker.de/ticker/api/?name=${encodeURIComponent(btde_account)}&uts=0&lh=0&lg=0`;
 
 	if (cfg('verbosity', 0) > 2) {
 		console.log('[btde] Downloading ' + url); // eslint-disable-line no-console
