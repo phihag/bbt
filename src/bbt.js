@@ -1,7 +1,6 @@
 const async = require('async');
 const express = require('express');
 const http = require('http');
-const url = require('url');
 
 const ws_module = require('ws');
 
@@ -13,12 +12,12 @@ const utils = require('./utils');
 
 
 function setup_ws(app, ws, req) {
-	const location = url.parse(req.url, true);
+	const location = new URL(req.url, 'http://localhost');
 
-	if (! location.path.endsWith('/subscribe')) {
+	if (! location.pathname.endsWith('/subscribe')) {
 		utils.send(ws, {
 			type: 'error',
-			message: 'Invalid location path ' + location.path,
+			message: 'Invalid location path ' + location.pathname,
 		});
 		ws.close();
 		return;
