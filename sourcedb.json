@@ -39,20 +39,24 @@
 	"btde_account": "tsv1906freystadt"
 },
 "SV Fun-Ball Dortelweil": {
-	"type": "csde"
+	"type": "btde",
+	"btde_account": "svfunballdortelweil"
 },
 "SV Fun-Ball Dortelweil 2": {
-	"type": "csde"
+	"type": "btde",
+	"btde_account": "svfunballdortelweil2"
 },
 "SV Fun-Ball Dortelweil 3": {
 	"type": "none"
 },
 
 "Blau-Weiss Wittorf": {
-	"type": "csde"
+	"type": "btde",
+	"btde_account": "bwwittorfnms"
 },
 "Blau-Weiss Wittorf NMS 2": {
-	"type": "csde"
+	"type": "btde",
+	"btde_account": "bwwittorfnms2"
 },
 "Horner TV": {
 	"type": "csde"
@@ -92,7 +96,8 @@
 	"type": "csde"
 },
 "1. BC Beuel": {
-	"type": "csde"
+	"type": "btde",
+	"btde_account": "bcbeuel"
 },
 "1. BC Beuel 2": {
 	"type": "csde"
@@ -134,20 +139,24 @@
 	"btde_account": "tv1884marktheidenfeld2"
 },
 "STC BW Solingen": {
-	"type": "csde"
+	"type": "btde",
+	"btde_account": "stcbwsolingen"
 },
 "STC Blau-Weiss Solingen": {
-	"type": "csde"
+	"type": "btde",
+	"btde_account": "stcbwsolingen"
 },
 
 "SG VfB/SC Peine": {
 	"type": "csde"
 },
 "1. BC Sbr.-Bischmisheim": {
-	"type": "csde"
+	"type": "btde",
+	"btde_account": "bcsbrbischmisheim"
 },
 "1. BC Sbr.-Bischmisheim 2": {
-	"type": "csde"
+	"type": "btde",
+	"btde_account": "bcsbrbischmisheim2"
 },
 "1. BC Sbr.-Bischmisheim 3": {
 	"type": "csde"
@@ -184,8 +193,14 @@
 	"btde_account": "spvggsterkradenord"
 },
 
+"Spvgg Sterkrade-Nord 2": {
+	"type": "btde",
+	"btde_account": "spvggsterkradenord2"
+},
+
 "BC Remagen": {
-	"type": "csde"
+	"type": "btde",
+	"btde_account": "bcremagen"
 },
 
 "BV RW Wesel": {
@@ -202,7 +217,8 @@
 },
 
 "TV 1860 Hofheim": {
-	"type": "csde"
+	"type": "btde",
+	"btde_account": "tvhofheim"
 },
 "TV 1860 Hofheim 2": {
 	"type": "csde"

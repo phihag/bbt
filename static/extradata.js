@@ -55,6 +55,8 @@ var LOGOS = [
 	'bcbsaarbruecken',
 	'bchohenlimburg',
 	'bcoffenburg',
+	'bcpreussenpark',
+	'bcrecklinghausen', // jpg logo
 	'bcremagen',
 	'bcwipperfeld',
 	'bspfrneusatz',
@@ -65,7 +67,7 @@ var LOGOS = [
 	'bvrwwesel',
 	'cfbkoeln',
 	'djkteutsttnis',
-	'dhfkleipzig', // blank, needs to be replaced
+	'dhfkleipzig', // png logo
 	'ebtberlin',
 	'esvnuernberg', // png logo
 	'fclangenfeld',
@@ -81,6 +83,7 @@ var LOGOS = [
 	'stcblauweisssolingen',
 	'sterkrade',
 	'svberlinerbrauereien',
+	'svfortunaregensburg',
 	'svfischbach',
 	'svfunballdortelweil',
 	'svgutsmuthsjena',
@@ -98,6 +101,7 @@ var LOGOS = [
 	'tvhofheim',
 	'tvmarktheidenfeld',
 	'tvrefrath',
+	'tvwitzhelden',
 	'unionluedinghausen',
 	'vfbfriedrichshafen',
 	'vfbgwmuelheim',
@@ -108,6 +112,7 @@ var LOGO_ALIASSE = {
 	'1. BC Sbr.-Bischmisheim': 'bcbsaarbruecken',
 	'1.BC Sbr.-Bischmisheim': 'bcbsaarbruecken',
 	'1.BV Mülheim': 'bvmuelheim',
+	'1. BV Mülheim': 'bvmuelheim',
 	'1.CfB Köln': 'cfbkoeln',
 	'1. CfB Köln': 'cfbkoeln',
 	'BC Bischmisheim': 'bcbsaarbruecken',
@@ -122,6 +127,7 @@ var LOGO_ALIASSE = {
 	'SC Union Lüdinghausen': 'unionluedinghausen',
 	'SG VfB/SC Peine': 'vfbscpeine',
 	'Spvgg.Sterkrade-N.': 'sterkrade',
+	'Spvgg Sterkrade-Nord': 'sterkrade',
 	'STC BW Solingen': 'stcblauweisssolingen',
 	'SV Harkenbleck': 'harkenbleck',
 	'TSV Neuhausen-Nymphenburg': 'tsvneuhausen',
