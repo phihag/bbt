@@ -161,6 +161,9 @@
 "1. BC Sbr.-Bischmisheim 3": {
 	"type": "csde"
 },
+"1. BC Sbr.-Bischmisheim 4": {
+	"type": "none"
+},
 "TV 1862 Dillingen": {
 	"type": "csde"
 },
@@ -182,10 +185,6 @@
 },
 "TuS Wiebelskirchen": {
 	"type": "csde"
-},
-"TSV Trittau 2": {
-	"type": "btde",
-	"btde_account": "tsvtrittau2"
 },
 
 "Spvgg Sterkrade-Nord": {
@@ -251,7 +250,7 @@
 	"btde_account": "bcrecklinghausen"
 },
 "TuS Neuhofen": {
-	"type": "csde"
+	"type": "none"
 },
 "TV Hofheim": {
 	"type": "csde"

@@ -67,7 +67,7 @@ function _parse_players(player_str) {
 
 function parse(src, data) {
 	const {event} = data;
-	assert(event);
+	assert(event, `No event for ${src.team_names.join(' – ')} in badmintonticker`);
 
 	const mscore = event.score;
 
