@@ -108,7 +108,7 @@
 "1.BV Mülheim": {
 	"type": "csde"
 },
-"1. BV Mülheim 2": {
+"1.BV Mülheim 2": {
 	"type": "csde"
 },
 "SV Fischbach": {
@@ -391,6 +391,9 @@
 	"type": "none"
 },
 "SSV Heiligenwald": {
+	"type": "none"
+},
+"SV Fortuna Regensburg": {
 	"type": "none"
 }
 
