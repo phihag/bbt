@@ -530,6 +530,18 @@
     {
         "type": "auto",
         "team_names": [
+            "1. BC Sbr.-Bischmisheim [N] 4",
+            "TB Andernach"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "16:00",
+        "date": "2026-10-03",
+        "date_de": "03.10.2026",
+        "ts": 1791036000
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "Horner TV",
             "Blau-Weiss Wittorf NMS 2"
         ],
@@ -574,18 +586,6 @@
         "date": "2026-10-03",
         "date_de": "03.10.2026",
         "ts": 1791036000
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "1. BC Sbr.-Bischmisheim [N] 4",
-            "TB Andernach"
-        ],
-        "league_key": "RLM-2016",
-        "starttime": "17:00",
-        "date": "2026-10-03",
-        "date_de": "03.10.2026",
-        "ts": 1791039600
     },
     {
         "type": "auto",
@@ -686,6 +686,18 @@
     {
         "type": "auto",
         "team_names": [
+            "1. BC Sbr.-Bischmisheim [N] 4",
+            "TB Andernach 2"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "11:00",
+        "date": "2026-10-04",
+        "date_de": "04.10.2026",
+        "ts": 1791104400
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "SV Viktoria Herxheim",
             "1. BCW Hütschenhausen"
         ],
@@ -706,30 +718,6 @@
         "date": "2026-10-04",
         "date_de": "04.10.2026",
         "ts": 1791111600
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "1. BC Sbr.-Bischmisheim [N] 4",
-            "TB Andernach 2"
-        ],
-        "league_key": "RLM-2016",
-        "starttime": "14:00",
-        "date": "2026-10-04",
-        "date_de": "04.10.2026",
-        "ts": 1791115200
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "SC Union 08 Lüdinghausen 2",
-            "1. BC Recklinghausen"
-        ],
-        "league_key": "2BLN-2020",
-        "starttime": "11:00",
-        "date": "2026-10-10",
-        "date_de": "10.10.2026",
-        "ts": 1791622800
     },
     {
         "type": "auto",
@@ -762,6 +750,18 @@
             "1. BC Sbr.-Bischmisheim 2"
         ],
         "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2026-10-10",
+        "date_de": "10.10.2026",
+        "ts": 1791637200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "SC Union 08 Lüdinghausen 2",
+            "1. BC Recklinghausen"
+        ],
+        "league_key": "2BLN-2020",
         "starttime": "15:00",
         "date": "2026-10-10",
         "date_de": "10.10.2026",
@@ -830,18 +830,6 @@
     {
         "type": "auto",
         "team_names": [
-            "1. BV Mülheim 2",
-            "Gladbecker FC"
-        ],
-        "league_key": "2BLN-2020",
-        "starttime": "17:00",
-        "date": "2026-10-10",
-        "date_de": "10.10.2026",
-        "ts": 1791644400
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "BC PreussenPark 09",
             "TV Refrath 2"
         ],
@@ -862,6 +850,18 @@
         "date": "2026-10-10",
         "date_de": "10.10.2026",
         "ts": 1791644400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim 2",
+            "Gladbecker FC"
+        ],
+        "league_key": "2BLN-2020",
+        "starttime": "18:00",
+        "date": "2026-10-10",
+        "date_de": "10.10.2026",
+        "ts": 1791648000
     },
     {
         "type": "auto",
@@ -906,18 +906,6 @@
             "BC Remagen"
         ],
         "league_key": "2BLS-2020",
-        "starttime": "11:00",
-        "date": "2026-10-11",
-        "date_de": "11.10.2026",
-        "ts": 1791709200
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "SC Union 08 Lüdinghausen 2",
-            "STC Blau-Weiss Solingen"
-        ],
-        "league_key": "2BLN-2020",
         "starttime": "11:00",
         "date": "2026-10-11",
         "date_de": "11.10.2026",
@@ -1358,6 +1346,30 @@
     {
         "type": "auto",
         "team_names": [
+            "1. BV Mülheim",
+            "1. BC Sbr.-Bischmisheim"
+        ],
+        "league_key": "1BL-2020",
+        "starttime": "11:00",
+        "date": "2026-10-25",
+        "date_de": "25.10.2026",
+        "ts": 1792922400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BV Mülheim 2",
+            "TSV Trittau"
+        ],
+        "league_key": "2BLN-2020",
+        "starttime": "11:00",
+        "date": "2026-10-25",
+        "date_de": "25.10.2026",
+        "ts": 1792922400
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "Gladbecker FC",
             "BC PreussenPark 09"
         ],
@@ -1374,18 +1386,6 @@
             "SV Fortuna Regensburg"
         ],
         "league_key": "2BLS-2020",
-        "starttime": "11:00",
-        "date": "2026-10-25",
-        "date_de": "25.10.2026",
-        "ts": 1792922400
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "SC Union 08 Lüdinghausen",
-            "Blau-Weiss Wittorf-NMS"
-        ],
-        "league_key": "1BL-2020",
         "starttime": "11:00",
         "date": "2026-10-25",
         "date_de": "25.10.2026",
@@ -1526,18 +1526,6 @@
     {
         "type": "auto",
         "team_names": [
-            "1. BV Mülheim 2",
-            "TSV Trittau"
-        ],
-        "league_key": "2BLN-2020",
-        "starttime": "14:00",
-        "date": "2026-10-25",
-        "date_de": "25.10.2026",
-        "ts": 1792933200
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "SV GutsMuths Jena",
             "TSV Neuhausen-Nymphenb. München"
         ],
@@ -1550,8 +1538,8 @@
     {
         "type": "auto",
         "team_names": [
-            "1. BV Mülheim",
-            "1. BC Sbr.-Bischmisheim"
+            "SC Union 08 Lüdinghausen",
+            "Blau-Weiss Wittorf-NMS"
         ],
         "league_key": "1BL-2020",
         "starttime": "15:00",
@@ -1778,6 +1766,18 @@
     {
         "type": "auto",
         "team_names": [
+            "1. BV Mülheim 2",
+            "Spvgg Sterkrade-Nord"
+        ],
+        "league_key": "2BLN-2020",
+        "starttime": "17:00",
+        "date": "2026-11-21",
+        "date_de": "21.11.2026",
+        "ts": 1795276800
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "1. BC Beuel",
             "TV Refrath 2"
         ],
@@ -1878,18 +1878,6 @@
             "BC Remagen"
         ],
         "league_key": "2BLS-2020",
-        "starttime": "11:00",
-        "date": "2026-11-22",
-        "date_de": "22.11.2026",
-        "ts": 1795341600
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "1. BV Mülheim 2",
-            "Spvgg Sterkrade-Nord"
-        ],
-        "league_key": "2BLN-2020",
         "starttime": "11:00",
         "date": "2026-11-22",
         "date_de": "22.11.2026",
@@ -3698,18 +3686,6 @@
     {
         "type": "auto",
         "team_names": [
-            "BC Remagen",
-            "SV GutsMuths Jena"
-        ],
-        "league_key": "2BLS-2020",
-        "starttime": "11:00",
-        "date": "2027-01-31",
-        "date_de": "31.01.2027",
-        "ts": 1801389600
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "Gladbecker FC",
             "Spvgg Sterkrade-Nord"
         ],
@@ -3814,6 +3790,18 @@
         "date": "2027-01-31",
         "date_de": "31.01.2027",
         "ts": 1801400400
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "BC Remagen",
+            "SV GutsMuths Jena"
+        ],
+        "league_key": "2BLS-2020",
+        "starttime": "15:00",
+        "date": "2027-01-31",
+        "date_de": "31.01.2027",
+        "ts": 1801404000
     },
     {
         "type": "auto",
