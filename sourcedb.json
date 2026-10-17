@@ -55,8 +55,7 @@
 	"btde_account": "bwwittorfnms"
 },
 "Blau-Weiss Wittorf NMS 2": {
-	"type": "btde",
-	"btde_account": "bwwittorfnms2"
+	"type": "csde"
 },
 "Horner TV": {
 	"type": "csde"
