@@ -64,6 +64,14 @@ const TEAM_NAMES = {
     '7-11': 'SV Harkenbleck',
     '7-9': 'TSV Tempelhof-Mariendorf',
     '7-12': 'TV Metjendorf',
+    '8-63': '1. BC Sbr.-Bischmisheim',
+    '8-58': '1. BCW Hütschenhausen',
+    '8-60': 'SSV Heiligenwald',
+    '8-64': 'SV Viktoria Herxheim',
+    '8-57': 'TB Andernach',
+    '8-62': 'TB Andernach 2',
+    '8-61': 'TuS Neuhofen',
+    '8-59': 'TV Wemmetsweiler',
 };
 
 module.exports = {
