@@ -53,6 +53,8 @@ async function rename(oldPath, newPath) {
 					resolve();
 				});
 			});
+		} else {
+			throw err;
 		}
 	}
 }
