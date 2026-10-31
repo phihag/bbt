@@ -46,7 +46,7 @@ install-service:
 install-docker:
 	docker build . -t bbt
 	docker rm -f bbt
-	docker run --restart=always --name bbt -p 19005:9005 bbt
+	docker run --restart=always -d --name bbt -p 9005:9005 bbt
 
 cleandist:
 	rm -rf -- dist
