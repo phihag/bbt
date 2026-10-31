@@ -2,7 +2,6 @@
 
 const assert = require('assert');
 const crypto = require('crypto');
-const extract_zip = require('extract-zip');
 const fs = require('fs');
 const path = require('path');
 const rimraf = require('rimraf');
@@ -54,8 +53,7 @@ async function bupdate() {
 	await promisify(utils.ensure_mkdir)(tmp_dir);
 
 	await promisify(utils.download_file)(ZIP_URL, zip_fn);
-	const new_dir_abs = path.resolve(new_dir);
-	await extract_zip(zip_fn, {dir: new_dir_abs});
+	await promise_utils.extract_zip(zip_fn, new_dir);
 	const checksums_fn = path.join(new_dir, 'bup', 'checksums.json');
 	const checksums_json = await promisify(fs.readFile)(checksums_fn, 'utf8');
 	const checksums = JSON.parse(checksums_json);
