@@ -43,6 +43,11 @@ install-service:
 	systemctl enable bbt
 	systemctl start bbt
 
+install-docker:
+	docker build . -t bbt
+	docker rm -f bbt
+	docker run --restart=always --name bbt -p 19005:9005 bbt
+
 cleandist:
 	rm -rf -- dist
 

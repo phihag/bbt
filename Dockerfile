@@ -1,11 +1,13 @@
 FROM node
 
-WORKDIR /app
+WORKDIR /bbt
 
-COPY package.json /app/package.json
-COPY package-lock.json /app/package-lock.json
+COPY package.json /bbt/package.json
+COPY package-lock.json /bbt/package-lock.json
 RUN npm install
-COPY . /app
+COPY . /bbt
+
+RUN ./bupdate.js 
 
 EXPOSE 9005
 

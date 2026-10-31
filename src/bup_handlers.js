@@ -50,10 +50,8 @@ async function bupdate() {
 	const zip_fn = path.join(tmp_dir, 'bup.zip');
 	const backup_dir = path.join(TMP_ROOT, 'bupdate_tmp_oldbup_' + tmp_token);
 
-	await Promise.all([
-		promisify(utils.ensure_mkdir)(TMP_ROOT),
-		promisify(utils.ensure_mkdir)(tmp_dir),
-	]);
+	await promisify(utils.ensure_mkdir)(TMP_ROOT);
+	await promisify(utils.ensure_mkdir)(tmp_dir);
 
 	await promisify(utils.download_file)(ZIP_URL, zip_fn);
 	const new_dir_abs = path.resolve(new_dir);
@@ -158,6 +156,7 @@ function event_handler(req, res, next) {
 }
 
 module.exports = {
+	bupdate,
 	bupdate_handler,
 	event_handler,
 };
