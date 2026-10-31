@@ -914,6 +914,18 @@
     {
         "type": "auto",
         "team_names": [
+            "SC Union 08 Lüdinghausen 2",
+            "STC Blau-Weiss Solingen"
+        ],
+        "league_key": "2BLN-2020",
+        "starttime": "11:00",
+        "date": "2026-10-11",
+        "date_de": "11.10.2026",
+        "ts": 1791709200
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "SV Berliner Brauereien",
             "TV Refrath 2"
         ],
@@ -1142,18 +1154,6 @@
     {
         "type": "auto",
         "team_names": [
-            "Gladbecker FC",
-            "SV Berliner Brauereien"
-        ],
-        "league_key": "2BLN-2020",
-        "starttime": "13:00",
-        "date": "2026-10-24",
-        "date_de": "24.10.2026",
-        "ts": 1792839600
-    },
-    {
-        "type": "auto",
-        "team_names": [
             "Spvgg Sterkrade-Nord",
             "TSV Trittau"
         ],
@@ -1186,6 +1186,30 @@
         "date": "2026-10-24",
         "date_de": "24.10.2026",
         "ts": 1792843200
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "1. BCW Hütschenhausen",
+            "1. BC Sbr.-Bischmisheim [N] 4"
+        ],
+        "league_key": "RLM-2016",
+        "starttime": "15:00",
+        "date": "2026-10-24",
+        "date_de": "24.10.2026",
+        "ts": 1792846800
+    },
+    {
+        "type": "auto",
+        "team_names": [
+            "Gladbecker FC",
+            "SV Berliner Brauereien"
+        ],
+        "league_key": "2BLN-2020",
+        "starttime": "15:00",
+        "date": "2026-10-24",
+        "date_de": "24.10.2026",
+        "ts": 1792846800
     },
     {
         "type": "auto",
@@ -1234,18 +1258,6 @@
         "date": "2026-10-24",
         "date_de": "24.10.2026",
         "ts": 1792846800
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "1. BCW Hütschenhausen",
-            "1. BC Sbr.-Bischmisheim [N] 4"
-        ],
-        "league_key": "RLM-2016",
-        "starttime": "16:00",
-        "date": "2026-10-24",
-        "date_de": "24.10.2026",
-        "ts": 1792850400
     },
     {
         "type": "auto",
@@ -1562,6 +1574,18 @@
     {
         "type": "auto",
         "team_names": [
+            "SG VfB\/SC Peine",
+            "SG Lengede\/Vechelde"
+        ],
+        "league_key": "RLN-2016",
+        "starttime": "12:00",
+        "date": "2026-10-31",
+        "date_de": "31.10.2026",
+        "ts": 1793444400
+    },
+    {
+        "type": "auto",
+        "team_names": [
             "Blau-Weiss Wittorf NMS 2",
             "SG Hammer\/Molfsee"
         ],
@@ -1576,18 +1600,6 @@
         "team_names": [
             "SG Tempelhof\/Friedenau",
             "SC Brandenburg"
-        ],
-        "league_key": "RLN-2016",
-        "starttime": "16:00",
-        "date": "2026-10-31",
-        "date_de": "31.10.2026",
-        "ts": 1793458800
-    },
-    {
-        "type": "auto",
-        "team_names": [
-            "SG VfB\/SC Peine",
-            "SG Lengede\/Vechelde"
         ],
         "league_key": "RLN-2016",
         "starttime": "16:00",
